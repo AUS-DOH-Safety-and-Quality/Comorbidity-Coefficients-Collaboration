@@ -54,6 +54,24 @@ python create_scored_datasets.py
 
 The comparison notebook uses `original_weights.json` to calculate scores for the original Charlson and Elixhauser methods on-the-fly, so no pre-processing step is required to use `method_comparison.ipynb`
 
+### Log transform length of stay
+
+The example data provided in the length of stay files has already been log transformed (natural log or logarithm to base e). Your data most likely will not be in this form. You can transform your length of stay value to a log value with whichever tool you like. In python, this can be achived via the following code.
+
+```Python
+import numpy as np
+length_of_stay = 1
+log_los = np.log(length_of_stay) # Will return 0
+```
+
+You can transform the log value back to its original value via the following
+```Python
+import numpy as np
+length_of_stay = np.exp(log_los) # Will return 1
+```
+
+`Note that in the sample data, same day stays have a length of stay of 1`
+
 ## Running the Analysis
 
 The analysis is divided into training specific models and then comparing their performance.
@@ -61,6 +79,8 @@ The analysis is divided into training specific models and then comparing their p
 ### 1. Train Models
 
 Navigate to the `MORT/` (Mortality) or `LOS/` (Length of Stay) directories and run the respective notebooks to train the models.
+
+Each notebook has a `SAVE_MODELS` variable in the first cell. It defaults to `True`. Change this to `False` if you do not want to save the models locally.
 
 **Mortality Models (`MORT/`):**
 
