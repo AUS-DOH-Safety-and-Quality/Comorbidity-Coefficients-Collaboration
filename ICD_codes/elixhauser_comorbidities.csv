@@ -1,0 +1,1761 @@
+ICD_CODE,LONG_DESCRIPTION,ELIXHAUSER_GROUP
+B18.0,Chronic viral hepatitis B with delta-agent,LIVER_DISEASE
+B18.1,Chronic viral hepatitis B without delta-agent,LIVER_DISEASE
+B18.2,Chronic viral hepatitis C,LIVER_DISEASE
+B18.8,Other chronic viral hepatitis,LIVER_DISEASE
+B18.9,"Chronic viral hepatitis, unspecified",LIVER_DISEASE
+B20.,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,HIV_AIDS
+B21.,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,HIV_AIDS
+B22.,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,HIV_AIDS
+B24.,Unspecified human immunodeficiency virus [HIV] disease,HIV_AIDS
+C00.0,Malignant neoplasm of external upper lip,SOLID_TUMOR_WITHOUT_METASTASIS
+C00.1,Malignant neoplasm of external lower lip,SOLID_TUMOR_WITHOUT_METASTASIS
+C00.2,"Malignant neoplasm of external lip, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C00.3,"Malignant neoplasm of upper lip, inner aspect",SOLID_TUMOR_WITHOUT_METASTASIS
+C00.4,"Malignant neoplasm of lower lip, inner aspect",SOLID_TUMOR_WITHOUT_METASTASIS
+C00.5,"Malignant neoplasm of lip, unspecified, inner aspect",SOLID_TUMOR_WITHOUT_METASTASIS
+C00.6,Malignant neoplasm of commissure of lip,SOLID_TUMOR_WITHOUT_METASTASIS
+C00.8,Overlapping malignant lesion of lip,SOLID_TUMOR_WITHOUT_METASTASIS
+C00.9,"Malignant neoplasm of lip, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C01.,Malignant neoplasm of base of tongue,SOLID_TUMOR_WITHOUT_METASTASIS
+C02.0,Malignant neoplasm of dorsal surface of tongue,SOLID_TUMOR_WITHOUT_METASTASIS
+C02.1,Malignant neoplasm of border of tongue,SOLID_TUMOR_WITHOUT_METASTASIS
+C02.2,Malignant neoplasm of ventral surface of tongue,SOLID_TUMOR_WITHOUT_METASTASIS
+C02.3,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C02.4,Malignant neoplasm of lingual tonsil,SOLID_TUMOR_WITHOUT_METASTASIS
+C02.8,Malignant neoplasm of overlapping lesion of tongue,SOLID_TUMOR_WITHOUT_METASTASIS
+C02.9,"Malignant neoplasm of tongue, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C03.0,Malignant neoplasm of upper gum,SOLID_TUMOR_WITHOUT_METASTASIS
+C03.1,Malignant neoplasm of lower gum,SOLID_TUMOR_WITHOUT_METASTASIS
+C03.9,"Malignant neoplasm of gum, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C04.0,Malignant neoplasm of anterior floor of mouth,SOLID_TUMOR_WITHOUT_METASTASIS
+C04.1,Malignant neoplasm of lateral floor of mouth,SOLID_TUMOR_WITHOUT_METASTASIS
+C04.8,Overlapping malignant lesion of floor of mouth,SOLID_TUMOR_WITHOUT_METASTASIS
+C04.9,"Malignant neoplasm of floor of mouth, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C05.0,Malignant neoplasm of hard palate,SOLID_TUMOR_WITHOUT_METASTASIS
+C05.1,Malignant neoplasm of soft palate,SOLID_TUMOR_WITHOUT_METASTASIS
+C05.2,Malignant neoplasm of uvula,SOLID_TUMOR_WITHOUT_METASTASIS
+C05.8,Overlapping malignant lesion of palate,SOLID_TUMOR_WITHOUT_METASTASIS
+C05.9,"Malignant neoplasm of palate, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C06.0,Malignant neoplasm of cheek mucosa,SOLID_TUMOR_WITHOUT_METASTASIS
+C06.1,Malignant neoplasm of vestibule of mouth,SOLID_TUMOR_WITHOUT_METASTASIS
+C06.2,Malignant neoplasm of retromolar area,SOLID_TUMOR_WITHOUT_METASTASIS
+C06.8,Overlapping malignant lesion of other and unspecified parts of mouth,SOLID_TUMOR_WITHOUT_METASTASIS
+C06.9,"Malignant neoplasm of mouth, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C07.,Malignant neoplasm of parotid gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C08.0,Malignant neoplasm of submandibular gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C08.1,Malignant neoplasm of sublingual gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C08.8,Overlapping malignant lesion of major salivary glands,SOLID_TUMOR_WITHOUT_METASTASIS
+C08.9,"Malignant neoplasm of major salivary gland, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C09.0,Malignant neoplasm of tonsillar fossa,SOLID_TUMOR_WITHOUT_METASTASIS
+C09.1,Malignant neoplasm of tonsillar pillar (anterior)(posterior),SOLID_TUMOR_WITHOUT_METASTASIS
+C09.8,Overlapping malignant lesion of tonsil,SOLID_TUMOR_WITHOUT_METASTASIS
+C09.9,"Malignant neoplasm of tonsil, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C10.0,Malignant neoplasm of vallecula,SOLID_TUMOR_WITHOUT_METASTASIS
+C10.1,Malignant neoplasm of anterior surface of epiglottis,SOLID_TUMOR_WITHOUT_METASTASIS
+C10.2,Malignant neoplasm of lateral wall of oropharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C10.3,Malignant neoplasm of posterior wall of oropharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C10.4,Malignant neoplasm of branchial cleft,SOLID_TUMOR_WITHOUT_METASTASIS
+C10.8,Overlapping malignant lesion of oropharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C10.9,"Malignant neoplasm of oropharynx, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C11.0,Malignant neoplasm of superior wall of nasopharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C11.1,Malignant neoplasm of posterior wall of nasopharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C11.2,Malignant neoplasm of lateral wall of nasopharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C11.3,Malignant neoplasm of anterior wall of nasopharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C11.8,Overlapping malignant lesion of nasopharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C11.9,"Malignant neoplasm of nasopharynx, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C12.,Malignant neoplasm of pyriform sinus,SOLID_TUMOR_WITHOUT_METASTASIS
+C13.0,Malignant neoplasm of postcricoid region,SOLID_TUMOR_WITHOUT_METASTASIS
+C13.1,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect",SOLID_TUMOR_WITHOUT_METASTASIS
+C13.2,Malignant neoplasm of posterior wall of hypopharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C13.8,Overlapping malignant lesion of hypopharynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C13.9,"Malignant neoplasm of hypopharynx, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C14.0,"Malignant neoplasm of pharynx, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C14.2,Malignant neoplasm of Waldeyer ring,SOLID_TUMOR_WITHOUT_METASTASIS
+C14.8,"Overlapping malignant lesion of lip, oral cavity and pharynx",SOLID_TUMOR_WITHOUT_METASTASIS
+C15.0,Malignant neoplasm of cervical part of oesophagus,SOLID_TUMOR_WITHOUT_METASTASIS
+C15.1,Malignant neoplasm of thoracic part of oesophagus,SOLID_TUMOR_WITHOUT_METASTASIS
+C15.2,Malignant neoplasm of abdominal part of oesophagus,SOLID_TUMOR_WITHOUT_METASTASIS
+C15.3,Malignant neoplasm of upper third of oesophagus,SOLID_TUMOR_WITHOUT_METASTASIS
+C15.4,Malignant neoplasm of middle third of oesophagus,SOLID_TUMOR_WITHOUT_METASTASIS
+C15.5,Malignant neoplasm of lower third of oesophagus,SOLID_TUMOR_WITHOUT_METASTASIS
+C15.8,Overlapping malignant lesion of oesophagus,SOLID_TUMOR_WITHOUT_METASTASIS
+C15.9,"Malignant neoplasm of oesophagus, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C16.0,Malignant neoplasm of cardia,SOLID_TUMOR_WITHOUT_METASTASIS
+C16.1,Malignant neoplasm of fundus of stomach,SOLID_TUMOR_WITHOUT_METASTASIS
+C16.2,Malignant neoplasm of body of stomach,SOLID_TUMOR_WITHOUT_METASTASIS
+C16.3,Malignant neoplasm of pyloric antrum,SOLID_TUMOR_WITHOUT_METASTASIS
+C16.4,Malignant neoplasm of pylorus,SOLID_TUMOR_WITHOUT_METASTASIS
+C16.5,"Malignant neoplasm of lesser curvature of stomach, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C16.6,"Malignant neoplasm of greater curvature of stomach, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C16.8,Overlapping malignant lesion of stomach,SOLID_TUMOR_WITHOUT_METASTASIS
+C16.9,"Malignant neoplasm of stomach, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C17.0,Malignant neoplasm of duodenum,SOLID_TUMOR_WITHOUT_METASTASIS
+C17.1,Malignant neoplasm of jejunum,SOLID_TUMOR_WITHOUT_METASTASIS
+C17.2,Malignant neoplasm of ileum,SOLID_TUMOR_WITHOUT_METASTASIS
+C17.3,Malignant neoplasm of Meckel's diverticulum,SOLID_TUMOR_WITHOUT_METASTASIS
+C17.8,Overlapping malignant lesion of small intestine,SOLID_TUMOR_WITHOUT_METASTASIS
+C17.9,"Malignant neoplasm of small intestine, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C18.0,Malignant neoplasm of caecum,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.1,Malignant neoplasm of appendix,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.2,Malignant neoplasm of ascending colon,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.3,Malignant neoplasm of hepatic flexure,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.4,Malignant neoplasm of transverse colon,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.5,Malignant neoplasm of splenic flexure,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.6,Malignant neoplasm of descending colon,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.7,Malignant neoplasm of sigmoid colon,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.8,Overlapping malignant lesion of colon,SOLID_TUMOR_WITHOUT_METASTASIS
+C18.9,"Malignant neoplasm of colon, part unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C19.,Malignant neoplasm of rectosigmoid junction,SOLID_TUMOR_WITHOUT_METASTASIS
+C20.,Malignant neoplasm of rectum,SOLID_TUMOR_WITHOUT_METASTASIS
+C21.0,"Malignant neoplasm of anus, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C21.1,Malignant neoplasm of anal canal,SOLID_TUMOR_WITHOUT_METASTASIS
+C21.2,Malignant neoplasm of cloacogenic zone,SOLID_TUMOR_WITHOUT_METASTASIS
+C21.8,"Overlapping malignant lesion of rectum, anus and anal canal",SOLID_TUMOR_WITHOUT_METASTASIS
+C22.0,Liver cell carcinoma,SOLID_TUMOR_WITHOUT_METASTASIS
+C22.1,Intrahepatic bile duct carcinoma,SOLID_TUMOR_WITHOUT_METASTASIS
+C22.2,Hepatoblastoma,SOLID_TUMOR_WITHOUT_METASTASIS
+C22.3,Angiosarcoma of liver,SOLID_TUMOR_WITHOUT_METASTASIS
+C22.4,Other sarcomas of liver,SOLID_TUMOR_WITHOUT_METASTASIS
+C22.7,Other specified carcinomas of liver,SOLID_TUMOR_WITHOUT_METASTASIS
+C22.9,"Malignant neoplasm of liver, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C23.,Malignant neoplasm of gallbladder,SOLID_TUMOR_WITHOUT_METASTASIS
+C24.0,Malignant neoplasm of extrahepatic bile duct,SOLID_TUMOR_WITHOUT_METASTASIS
+C24.1,Malignant neoplasm of ampulla of Vater,SOLID_TUMOR_WITHOUT_METASTASIS
+C24.8,Overlapping malignant lesion of biliary tract,SOLID_TUMOR_WITHOUT_METASTASIS
+C24.9,"Malignant neoplasm of biliary tract, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C25.0,Malignant neoplasm of head of pancreas,SOLID_TUMOR_WITHOUT_METASTASIS
+C25.1,Malignant neoplasm of body of pancreas,SOLID_TUMOR_WITHOUT_METASTASIS
+C25.2,Malignant neoplasm of tail of pancreas,SOLID_TUMOR_WITHOUT_METASTASIS
+C25.3,Malignant neoplasm of pancreatic duct,SOLID_TUMOR_WITHOUT_METASTASIS
+C25.4,Malignant neoplasm of endocrine pancreas,SOLID_TUMOR_WITHOUT_METASTASIS
+C25.7,Malignant neoplasm of other parts of pancreas,SOLID_TUMOR_WITHOUT_METASTASIS
+C25.8,Overlapping malignant lesion of pancreas,SOLID_TUMOR_WITHOUT_METASTASIS
+C25.9,"Malignant neoplasm of pancreas, part unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C26.0,"Malignant neoplasm of intestinal tract, part unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C26.1,Malignant neoplasm of spleen,SOLID_TUMOR_WITHOUT_METASTASIS
+C26.8,Overlapping malignant lesion of digestive system,SOLID_TUMOR_WITHOUT_METASTASIS
+C26.9,Malignant neoplasm of ill-defined sites within the digestive system,SOLID_TUMOR_WITHOUT_METASTASIS
+C30.0,Malignant neoplasm of nasal cavity,SOLID_TUMOR_WITHOUT_METASTASIS
+C30.1,Malignant neoplasm of middle ear,SOLID_TUMOR_WITHOUT_METASTASIS
+C31.0,Malignant neoplasm of maxillary sinus,SOLID_TUMOR_WITHOUT_METASTASIS
+C31.1,Malignant neoplasm of ethmoidal sinus,SOLID_TUMOR_WITHOUT_METASTASIS
+C31.2,Malignant neoplasm of frontal sinus,SOLID_TUMOR_WITHOUT_METASTASIS
+C31.3,Malignant neoplasm of sphenoidal sinus,SOLID_TUMOR_WITHOUT_METASTASIS
+C31.8,Overlapping malignant lesion of accessory sinuses,SOLID_TUMOR_WITHOUT_METASTASIS
+C31.9,"Malignant neoplasm of accessory sinus, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C32.0,Malignant neoplasm of glottis,SOLID_TUMOR_WITHOUT_METASTASIS
+C32.1,Malignant neoplasm of supraglottis,SOLID_TUMOR_WITHOUT_METASTASIS
+C32.2,Malignant neoplasm of subglottis,SOLID_TUMOR_WITHOUT_METASTASIS
+C32.3,Malignant neoplasm of laryngeal cartilage,SOLID_TUMOR_WITHOUT_METASTASIS
+C32.8,Overlapping malignant lesion of larynx,SOLID_TUMOR_WITHOUT_METASTASIS
+C32.9,"Malignant neoplasm of larynx, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C33.,Malignant neoplasm of trachea,SOLID_TUMOR_WITHOUT_METASTASIS
+C34.0,Malignant neoplasm of main bronchus,SOLID_TUMOR_WITHOUT_METASTASIS
+C34.1,"Malignant neoplasm of upper lobe, bronchus or lung",SOLID_TUMOR_WITHOUT_METASTASIS
+C34.2,"Malignant neoplasm of middle lobe, bronchus or lung",SOLID_TUMOR_WITHOUT_METASTASIS
+C34.3,"Malignant neoplasm of lower lobe, bronchus or lung",SOLID_TUMOR_WITHOUT_METASTASIS
+C34.8,Overlapping malignant lesion of bronchus and lung,SOLID_TUMOR_WITHOUT_METASTASIS
+C34.9,"Malignant neoplasm of bronchus or lung, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C37.,Malignant neoplasm of thymus,SOLID_TUMOR_WITHOUT_METASTASIS
+C38.0,Malignant neoplasm of heart,SOLID_TUMOR_WITHOUT_METASTASIS
+C38.1,Malignant neoplasm of anterior mediastinum,SOLID_TUMOR_WITHOUT_METASTASIS
+C38.2,Malignant neoplasm of posterior mediastinum,SOLID_TUMOR_WITHOUT_METASTASIS
+C38.3,"Malignant neoplasm of mediastinum, part unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C38.4,Malignant neoplasm of pleura,SOLID_TUMOR_WITHOUT_METASTASIS
+C38.8,"Overlapping malignant lesion of heart, mediastinum and pleura",SOLID_TUMOR_WITHOUT_METASTASIS
+C39.0,"Malignant neoplasm of upper respiratory tract, part unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C39.8,Overlapping malignant lesion of respiratory and intrathoracic organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C39.9,Malignant neoplasm of ill-defined sites within the respiratory system,SOLID_TUMOR_WITHOUT_METASTASIS
+C40.0,Malignant neoplasm of scapula and long bones of upper limb,SOLID_TUMOR_WITHOUT_METASTASIS
+C40.1,Malignant neoplasm of short bones of upper limb,SOLID_TUMOR_WITHOUT_METASTASIS
+C40.2,Malignant neoplasm of long bones of lower limb,SOLID_TUMOR_WITHOUT_METASTASIS
+C40.3,Malignant neoplasm of short bones of lower limb,SOLID_TUMOR_WITHOUT_METASTASIS
+C40.8,Overlapping malignant lesion of bone and articular cartilage of limbs,SOLID_TUMOR_WITHOUT_METASTASIS
+C40.9,"Malignant neoplasm of bone and articular cartilage of limb, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C41.01,Malignant neoplasm of craniofacial bones,SOLID_TUMOR_WITHOUT_METASTASIS
+C41.02,Malignant neoplasm of maxillofacial bones,SOLID_TUMOR_WITHOUT_METASTASIS
+C41.1,Malignant neoplasm of mandible,SOLID_TUMOR_WITHOUT_METASTASIS
+C41.2,Malignant neoplasm of vertebral column,SOLID_TUMOR_WITHOUT_METASTASIS
+C41.3,"Malignant neoplasm of ribs, sternum and clavicle",SOLID_TUMOR_WITHOUT_METASTASIS
+C41.4,"Malignant neoplasm of pelvic bones, sacrum and coccyx",SOLID_TUMOR_WITHOUT_METASTASIS
+C41.8,Overlapping malignant lesion of bone and articular cartilage,SOLID_TUMOR_WITHOUT_METASTASIS
+C41.9,"Malignant neoplasm of bone and articular cartilage, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C43.0,Malignant melanoma of lip,SOLID_TUMOR_WITHOUT_METASTASIS
+C43.1,"Malignant melanoma of eyelid, including canthus",SOLID_TUMOR_WITHOUT_METASTASIS
+C43.2,Malignant melanoma of ear and external auricular canal,SOLID_TUMOR_WITHOUT_METASTASIS
+C43.3,Malignant melanoma of other and unspecified parts of face,SOLID_TUMOR_WITHOUT_METASTASIS
+C43.4,Malignant melanoma of scalp and neck,SOLID_TUMOR_WITHOUT_METASTASIS
+C43.5,Malignant melanoma of trunk,SOLID_TUMOR_WITHOUT_METASTASIS
+C43.6,"Malignant melanoma of upper limb, including shoulder",SOLID_TUMOR_WITHOUT_METASTASIS
+C43.7,"Malignant melanoma of lower limb, including hip",SOLID_TUMOR_WITHOUT_METASTASIS
+C43.8,Overlapping malignant melanoma of skin,SOLID_TUMOR_WITHOUT_METASTASIS
+C43.9,"Malignant melanoma of skin, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C45.0,Mesothelioma of pleura,SOLID_TUMOR_WITHOUT_METASTASIS
+C45.1,Mesothelioma of peritoneum,SOLID_TUMOR_WITHOUT_METASTASIS
+C45.2,Mesothelioma of pericardium,SOLID_TUMOR_WITHOUT_METASTASIS
+C45.7,Mesothelioma of other sites,SOLID_TUMOR_WITHOUT_METASTASIS
+C45.9,"Mesothelioma, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C46.,Kaposi sarcoma,SOLID_TUMOR_WITHOUT_METASTASIS
+C46.0,Kaposi sarcoma of skin,SOLID_TUMOR_WITHOUT_METASTASIS
+C46.1,Kaposi sarcoma of soft tissue,SOLID_TUMOR_WITHOUT_METASTASIS
+C46.2,Kaposi sarcoma of palate,SOLID_TUMOR_WITHOUT_METASTASIS
+C46.3,Kaposi sarcoma of lymph nodes,SOLID_TUMOR_WITHOUT_METASTASIS
+C46.7,Kaposi sarcoma of other sites,SOLID_TUMOR_WITHOUT_METASTASIS
+C46.8,Kaposi sarcoma of multiple organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C46.9,"Kaposi sarcoma, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C47.0,"Malignant neoplasm of peripheral nerves of head, face and neck",SOLID_TUMOR_WITHOUT_METASTASIS
+C47.1,"Malignant neoplasm of peripheral nerves of upper limb, including shoulder",SOLID_TUMOR_WITHOUT_METASTASIS
+C47.2,"Malignant neoplasm of peripheral nerves of lower limb, including hip",SOLID_TUMOR_WITHOUT_METASTASIS
+C47.3,Malignant neoplasm of peripheral nerves of thorax,SOLID_TUMOR_WITHOUT_METASTASIS
+C47.4,Malignant neoplasm of peripheral nerves of abdomen,SOLID_TUMOR_WITHOUT_METASTASIS
+C47.5,Malignant neoplasm of peripheral nerves of pelvis,SOLID_TUMOR_WITHOUT_METASTASIS
+C47.6,"Malignant neoplasm of peripheral nerves of trunk, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C47.8,Overlapping malignant lesion of peripheral nerves and autonomic nervous system,SOLID_TUMOR_WITHOUT_METASTASIS
+C47.9,"Malignant neoplasm of peripheral nerves and autonomic nervous system, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C48.0,Malignant neoplasm of retroperitoneum,SOLID_TUMOR_WITHOUT_METASTASIS
+C48.1,Malignant neoplasm of specified parts of peritoneum,SOLID_TUMOR_WITHOUT_METASTASIS
+C48.2,"Malignant neoplasm of peritoneum, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C48.8,Overlapping malignant lesion of retroperitoneum and peritoneum,SOLID_TUMOR_WITHOUT_METASTASIS
+C49.0,"Malignant neoplasm of connective and soft tissue of head, face and neck",SOLID_TUMOR_WITHOUT_METASTASIS
+C49.1,"Malignant neoplasm of connective and soft tissue of upper limb, including shoulder",SOLID_TUMOR_WITHOUT_METASTASIS
+C49.2,"Malignant neoplasm of connective and soft tissue of lower limb, including hip",SOLID_TUMOR_WITHOUT_METASTASIS
+C49.3,Malignant neoplasm of connective and soft tissue of thorax,SOLID_TUMOR_WITHOUT_METASTASIS
+C49.4,Malignant neoplasm of connective and soft tissue of abdomen,SOLID_TUMOR_WITHOUT_METASTASIS
+C49.5,Malignant neoplasm of connective and soft tissue of pelvis,SOLID_TUMOR_WITHOUT_METASTASIS
+C49.6,"Malignant neoplasm of connective and soft tissue of trunk, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C49.8,Overlapping malignant lesion of connective and soft tissue,SOLID_TUMOR_WITHOUT_METASTASIS
+C49.9,"Malignant neoplasm of connective and soft tissue, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C50.0,Malignant neoplasm of nipple and areola,SOLID_TUMOR_WITHOUT_METASTASIS
+C50.1,Malignant neoplasm of central portion of breast,SOLID_TUMOR_WITHOUT_METASTASIS
+C50.2,Malignant neoplasm of upper-inner quadrant of breast,SOLID_TUMOR_WITHOUT_METASTASIS
+C50.3,Malignant neoplasm of lower-inner quadrant of breast,SOLID_TUMOR_WITHOUT_METASTASIS
+C50.4,Malignant neoplasm of upper-outer quadrant of breast,SOLID_TUMOR_WITHOUT_METASTASIS
+C50.5,Malignant neoplasm of lower-outer quadrant of breast,SOLID_TUMOR_WITHOUT_METASTASIS
+C50.6,Malignant neoplasm of axillary tail of breast,SOLID_TUMOR_WITHOUT_METASTASIS
+C50.8,Overlapping malignant lesion of breast,SOLID_TUMOR_WITHOUT_METASTASIS
+C50.9,"Malignant neoplasm of breast, unspecified part",SOLID_TUMOR_WITHOUT_METASTASIS
+C51.0,Malignant neoplasm of labium majus,SOLID_TUMOR_WITHOUT_METASTASIS
+C51.1,Malignant neoplasm of labium minus,SOLID_TUMOR_WITHOUT_METASTASIS
+C51.2,Malignant neoplasm of clitoris,SOLID_TUMOR_WITHOUT_METASTASIS
+C51.8,Overlapping malignant lesion of vulva,SOLID_TUMOR_WITHOUT_METASTASIS
+C51.9,"Malignant neoplasm of vulva, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C52.,Malignant neoplasm of vagina,SOLID_TUMOR_WITHOUT_METASTASIS
+C53.0,Malignant neoplasm of endocervix,SOLID_TUMOR_WITHOUT_METASTASIS
+C53.1,Malignant neoplasm of exocervix,SOLID_TUMOR_WITHOUT_METASTASIS
+C53.8,Overlapping malignant lesion of cervix uteri,SOLID_TUMOR_WITHOUT_METASTASIS
+C53.9,"Malignant neoplasm of cervix uteri, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C54.0,Malignant neoplasm of isthmus uteri,SOLID_TUMOR_WITHOUT_METASTASIS
+C54.1,Malignant neoplasm of endometrium,SOLID_TUMOR_WITHOUT_METASTASIS
+C54.2,Malignant neoplasm of myometrium,SOLID_TUMOR_WITHOUT_METASTASIS
+C54.3,Malignant neoplasm of fundus uteri,SOLID_TUMOR_WITHOUT_METASTASIS
+C54.8,Overlapping malignant lesion of corpus uteri,SOLID_TUMOR_WITHOUT_METASTASIS
+C54.9,"Malignant neoplasm of corpus uteri, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C55.,"Malignant neoplasm of uterus, part unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C56.,Malignant neoplasm of ovary,SOLID_TUMOR_WITHOUT_METASTASIS
+C57.0,Malignant neoplasm of fallopian tube,SOLID_TUMOR_WITHOUT_METASTASIS
+C57.1,Malignant neoplasm of broad ligament,SOLID_TUMOR_WITHOUT_METASTASIS
+C57.2,Malignant neoplasm of round ligament,SOLID_TUMOR_WITHOUT_METASTASIS
+C57.3,Malignant neoplasm of parametrium,SOLID_TUMOR_WITHOUT_METASTASIS
+C57.4,"Malignant neoplasm of uterine adnexa, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C57.7,Malignant neoplasm of other specified female genital organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C57.8,Overlapping malignant lesion of female genital organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C57.9,"Malignant neoplasm of female genital organ, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C58.,Malignant neoplasm of placenta,SOLID_TUMOR_WITHOUT_METASTASIS
+C60.0,Malignant neoplasm of prepuce,SOLID_TUMOR_WITHOUT_METASTASIS
+C60.1,Malignant neoplasm of glans penis,SOLID_TUMOR_WITHOUT_METASTASIS
+C60.2,Malignant neoplasm of body of penis,SOLID_TUMOR_WITHOUT_METASTASIS
+C60.8,Overlapping malignant lesion of penis,SOLID_TUMOR_WITHOUT_METASTASIS
+C60.9,"Malignant neoplasm of penis, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C61.,Malignant neoplasm of prostate,SOLID_TUMOR_WITHOUT_METASTASIS
+C62.0,Malignant neoplasm of undescended testis,SOLID_TUMOR_WITHOUT_METASTASIS
+C62.1,Malignant neoplasm of descended testis,SOLID_TUMOR_WITHOUT_METASTASIS
+C62.9,"Malignant neoplasm of testis, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C63.0,Malignant neoplasm of epididymis,SOLID_TUMOR_WITHOUT_METASTASIS
+C63.1,Malignant neoplasm of spermatic cord,SOLID_TUMOR_WITHOUT_METASTASIS
+C63.2,Malignant neoplasm of scrotum,SOLID_TUMOR_WITHOUT_METASTASIS
+C63.7,Other specified male genital organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C63.8,Overlapping malignant lesion of male genital organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C63.9,"Malignant neoplasm of male genital organ, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C64.,"Malignant neoplasm of kidney, except renal pelvis",SOLID_TUMOR_WITHOUT_METASTASIS
+C65.,Malignant neoplasm of renal pelvis,SOLID_TUMOR_WITHOUT_METASTASIS
+C66.,Malignant neoplasm of ureter,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.0,Malignant neoplasm of trigone of bladder,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.1,Malignant neoplasm of dome of bladder,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.2,Malignant neoplasm of lateral wall of bladder,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.3,Malignant neoplasm of anterior wall of bladder,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.4,Malignant neoplasm of posterior wall of bladder,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.5,Malignant neoplasm of bladder neck,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.6,Malignant neoplasm of ureteric orifice,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.7,Malignant neoplasm of urachus,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.8,Overlapping malignant lesion of bladder,SOLID_TUMOR_WITHOUT_METASTASIS
+C67.9,"Malignant neoplasm of bladder, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C68.0,Malignant neoplasm of urethra,SOLID_TUMOR_WITHOUT_METASTASIS
+C68.1,Malignant neoplasm of paraurethral gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C68.8,Overlapping malignant lesion of urinary organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C68.9,"Malignant neoplasm of urinary organ, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C69.0,Malignant neoplasm of conjunctiva,SOLID_TUMOR_WITHOUT_METASTASIS
+C69.1,Malignant neoplasm of cornea,SOLID_TUMOR_WITHOUT_METASTASIS
+C69.2,Malignant neoplasm of retina,SOLID_TUMOR_WITHOUT_METASTASIS
+C69.3,Malignant neoplasm of choroid,SOLID_TUMOR_WITHOUT_METASTASIS
+C69.4,Malignant neoplasm of ciliary body,SOLID_TUMOR_WITHOUT_METASTASIS
+C69.5,Malignant neoplasm of lacrimal gland and duct,SOLID_TUMOR_WITHOUT_METASTASIS
+C69.6,Malignant neoplasm of orbit,SOLID_TUMOR_WITHOUT_METASTASIS
+C69.8,Overlapping malignant lesion of eye and adnexa,SOLID_TUMOR_WITHOUT_METASTASIS
+C69.9,"Malignant neoplasm of eye, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C70.0,Malignant neoplasm of cerebral meninges,SOLID_TUMOR_WITHOUT_METASTASIS
+C70.1,Malignant neoplasm of spinal meninges,SOLID_TUMOR_WITHOUT_METASTASIS
+C70.9,"Malignant neoplasm of meninges, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C71.0,"Malignant neoplasm of cerebrum, except lobes and ventricles",SOLID_TUMOR_WITHOUT_METASTASIS
+C71.1,Malignant neoplasm of frontal lobe,SOLID_TUMOR_WITHOUT_METASTASIS
+C71.2,Malignant neoplasm of temporal lobe,SOLID_TUMOR_WITHOUT_METASTASIS
+C71.3,Malignant neoplasm of parietal lobe,SOLID_TUMOR_WITHOUT_METASTASIS
+C71.4,Malignant neoplasm of occipital lobe,SOLID_TUMOR_WITHOUT_METASTASIS
+C71.5,Malignant neoplasm of cerebral ventricle,SOLID_TUMOR_WITHOUT_METASTASIS
+C71.6,Malignant neoplasm of cerebellum,SOLID_TUMOR_WITHOUT_METASTASIS
+C71.7,Malignant neoplasm of brain stem,SOLID_TUMOR_WITHOUT_METASTASIS
+C71.8,Overlapping malignant lesion of brain,SOLID_TUMOR_WITHOUT_METASTASIS
+C71.9,"Malignant neoplasm of brain, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C72.0,Malignant neoplasm of spinal cord,SOLID_TUMOR_WITHOUT_METASTASIS
+C72.1,Malignant neoplasm of cauda equina,SOLID_TUMOR_WITHOUT_METASTASIS
+C72.2,Malignant neoplasm of olfactory nerve,SOLID_TUMOR_WITHOUT_METASTASIS
+C72.3,Malignant neoplasm of optic nerve,SOLID_TUMOR_WITHOUT_METASTASIS
+C72.4,Malignant neoplasm of acoustic nerve,SOLID_TUMOR_WITHOUT_METASTASIS
+C72.5,Malignant neoplasm of other and unspecified cranial nerves,SOLID_TUMOR_WITHOUT_METASTASIS
+C72.8,Overlapping malignant lesion of brain and other parts of central nervous system,SOLID_TUMOR_WITHOUT_METASTASIS
+C72.9,"Malignant neoplasm of central nervous system, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C73.,Malignant neoplasm of thyroid gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C74.0,Malignant neoplasm of cortex of adrenal gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C74.1,Malignant neoplasm of medulla of adrenal gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C74.9,"Malignant neoplasm of adrenal gland, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C75.0,Malignant neoplasm of parathyroid gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C75.1,Malignant neoplasm of pituitary gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C75.2,Malignant neoplasm of craniopharyngeal duct,SOLID_TUMOR_WITHOUT_METASTASIS
+C75.3,Malignant neoplasm of pineal gland,SOLID_TUMOR_WITHOUT_METASTASIS
+C75.4,Malignant neoplasm of carotid body,SOLID_TUMOR_WITHOUT_METASTASIS
+C75.5,Malignant neoplasm of aortic body and other paraganglia,SOLID_TUMOR_WITHOUT_METASTASIS
+C75.8,"Malignant neoplasm of pluriglandular involvement, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C75.9,"Malignant neoplasm of endocrine gland, unspecified",SOLID_TUMOR_WITHOUT_METASTASIS
+C76.0,"Malignant neoplasm of head, face and neck",SOLID_TUMOR_WITHOUT_METASTASIS
+C76.1,Malignant neoplasm of thorax,SOLID_TUMOR_WITHOUT_METASTASIS
+C76.2,Malignant neoplasm of abdomen,SOLID_TUMOR_WITHOUT_METASTASIS
+C76.3,Malignant neoplasm of pelvis,SOLID_TUMOR_WITHOUT_METASTASIS
+C76.4,Malignant neoplasm of upper limb,SOLID_TUMOR_WITHOUT_METASTASIS
+C76.5,Malignant neoplasm of lower limb,SOLID_TUMOR_WITHOUT_METASTASIS
+C76.7,Malignant neoplasm of other ill-defined sites,SOLID_TUMOR_WITHOUT_METASTASIS
+C76.8,Overlapping malignant lesion of other and ill-defined sites,SOLID_TUMOR_WITHOUT_METASTASIS
+C77.0,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face and neck",METASTATIC_CANCER
+C77.1,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,METASTATIC_CANCER
+C77.2,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,METASTATIC_CANCER
+C77.3,Secondary and unspecified malignant neoplasm of axillary and upper limb lymph nodes,METASTATIC_CANCER
+C77.4,Secondary and unspecified malignant neoplasm of inguinal and lower limb lymph nodes,METASTATIC_CANCER
+C77.5,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes,METASTATIC_CANCER
+C77.8,Secondary and unspecified malignant neoplasm of lymph nodes of multiple regions,METASTATIC_CANCER
+C77.9,"Secondary and unspecified malignant neoplasm of lymph node, unspecified",METASTATIC_CANCER
+C78.0,Secondary malignant neoplasm of lung,METASTATIC_CANCER
+C78.1,Secondary malignant neoplasm of mediastinum,METASTATIC_CANCER
+C78.2,Secondary malignant neoplasm of pleura,METASTATIC_CANCER
+C78.3,Secondary malignant neoplasm of other and unspecified respiratory organs,METASTATIC_CANCER
+C78.4,Secondary malignant neoplasm of small intestine,METASTATIC_CANCER
+C78.5,Secondary malignant neoplasm of large intestine and rectum,METASTATIC_CANCER
+C78.6,Secondary malignant neoplasm of retroperitoneum and peritoneum,METASTATIC_CANCER
+C78.7,Secondary malignant neoplasm of liver and intrahepatic bile duct,METASTATIC_CANCER
+C78.8,Secondary malignant neoplasm of other and unspecified digestive organs,METASTATIC_CANCER
+C79.0,Secondary malignant neoplasm of kidney and renal pelvis,METASTATIC_CANCER
+C79.1,Secondary malignant neoplasm of bladder and other and unspecified urinary organs,METASTATIC_CANCER
+C79.2,Secondary malignant neoplasm of skin,METASTATIC_CANCER
+C79.3,Secondary malignant neoplasm of brain and cerebral meninges,METASTATIC_CANCER
+C79.4,Secondary malignant neoplasm of other and unspecified parts of nervous system,METASTATIC_CANCER
+C79.5,Secondary malignant neoplasm of bone and bone marrow,METASTATIC_CANCER
+C79.6,Secondary malignant neoplasm of ovary,METASTATIC_CANCER
+C79.7,Secondary malignant neoplasm of adrenal gland,METASTATIC_CANCER
+C79.81,Secondary malignant neoplasm of breast,METASTATIC_CANCER
+C79.82,Secondary malignant neoplasm of genital organs,METASTATIC_CANCER
+C79.88,Secondary malignant neoplasm of other specified sites,METASTATIC_CANCER
+C80.,Malignant neoplasm without specification of site,METASTATIC_CANCER
+C81.0,Nodular lymphocyte predominant Hodgkin lymphoma,LYMPHOMA
+C81.1,Nodular sclerosis (classical) Hodgkin lymphoma,LYMPHOMA
+C81.2,Mixed cellularity (classical) Hodgkin lymphoma,LYMPHOMA
+C81.3,Lymphocyte depleted (classical) Hodgkin lymphoma,LYMPHOMA
+C81.7,Other (classical) Hodgkin lymphoma,LYMPHOMA
+C81.9,"Hodgkin lymphoma, unspecified",LYMPHOMA
+C82.,Follicular lymphoma,LYMPHOMA
+C82.0,Follicular lymphoma grade 1,LYMPHOMA
+C82.1,Follicular lymphoma grade 2,LYMPHOMA
+C82.2,"Follicular lymphoma grade 3, unspecified",LYMPHOMA
+C82.7,Other types of follicular lymphoma,LYMPHOMA
+C82.9,"Follicular lymphoma, unspecified",LYMPHOMA
+C83.,Non-follicular lymphoma,LYMPHOMA
+C83.0,Small cell B-cell lymphoma,LYMPHOMA
+C83.1,Mantle cell lymphoma,LYMPHOMA
+C83.2,Mixed small and large cell (diffuse) non-Hodgkin lymphoma,LYMPHOMA
+C83.3,Diffuse large B-cell lymphoma,LYMPHOMA
+C83.4,Immunoblastic (diffuse) non-Hodgkin lymphoma,LYMPHOMA
+C83.5,Lymphoblastic (diffuse) non-follicular lymphoma,LYMPHOMA
+C83.6,Undifferentiated (diffuse) non-Hodgkin lymphoma,LYMPHOMA
+C83.7,Burkitt lymphoma,LYMPHOMA
+C83.8,Other non-follicular lymphoma,LYMPHOMA
+C83.9,"Non-follicular (diffuse) lymphoma, unspecified",LYMPHOMA
+C84.0,Mycosis fungoides,LYMPHOMA
+C84.1,Sezary disease,LYMPHOMA
+C84.2,T-zone lymphoma,LYMPHOMA
+C84.3,Lymphoepithelioid lymphoma,LYMPHOMA
+C84.4,"Peripheral T-cell lymphoma, not elsewhere classified",LYMPHOMA
+C84.5,Other mature T/NK-cell lymphomas,LYMPHOMA
+C85.0,Lymphosarcoma,LYMPHOMA
+C85.1,"B-cell lymphoma, unspecified",LYMPHOMA
+C85.7,Other specified types of non-Hodgkin lymphoma,LYMPHOMA
+C85.9,"Non-Hodgkin lymphoma, unspecified",LYMPHOMA
+C88.0,Waldenstrom macroglobulinaemia,LYMPHOMA
+C88.00,"Waldenstrom macroglobulinaemia, without mention of remission",LYMPHOMA
+C88.01,"Waldenstrom macroglobulinaemia, in remission",LYMPHOMA
+C88.10,"Alpha heavy chain disease, without mention of remission",LYMPHOMA
+C88.11,"Alpha heavy chain disease, in remission",LYMPHOMA
+C88.20,"Other heavy chain disease, without mention of remission",LYMPHOMA
+C88.21,"Other heavy chain disease, in remission",LYMPHOMA
+C88.30,"Immunoproliferative small intestinal disease, without mention of remission",LYMPHOMA
+C88.31,"Immunoproliferative small intestinal disease, in remission",LYMPHOMA
+C88.70,"Other malignant immunoproliferative diseases, without mention of remission",LYMPHOMA
+C88.71,"Other malignant immunoproliferative diseases, in remission",LYMPHOMA
+C88.90,"Malignant immunoproliferative disease, unspecified, without mention of remission",LYMPHOMA
+C88.91,"Malignant immunoproliferative disease, unspecified, in remission",LYMPHOMA
+C90.00,"Multiple myeloma, without mention of remission",LYMPHOMA
+C90.01,"Multiple myeloma, in remission",LYMPHOMA
+C90.20,"Extramedullary plasmacytoma, without mention of remission",LYMPHOMA
+C90.21,"Extramedullary plasmacytoma, in remission",LYMPHOMA
+C96.0,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease],LYMPHOMA
+C96.1,Malignant histiocytosis,LYMPHOMA
+C96.2,Malignant mast cell tumour,LYMPHOMA
+C96.3,True histiocytic lymphoma,LYMPHOMA
+C96.7,"Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue",LYMPHOMA
+C96.9,"Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified",LYMPHOMA
+D50.0,Iron deficiency anaemia secondary to blood loss (chronic),BLOOD_LOSS_ANEMIA
+D50.8,Other iron deficiency anaemias,DEFICIENCY_ANEMIAS
+D50.9,"Iron deficiency anaemia, unspecified",DEFICIENCY_ANEMIAS
+D51.0,Vitamin B12 deficiency anaemia due to intrinsic factor deficiency,DEFICIENCY_ANEMIAS
+D51.1,Vitamin B12 deficiency anaemia due to selective vitamin B12 malabsorption with proteinuria,DEFICIENCY_ANEMIAS
+D51.2,Transcobalamin II deficiency,DEFICIENCY_ANEMIAS
+D51.3,Other dietary vitamin B12 deficiency anaemia,DEFICIENCY_ANEMIAS
+D51.8,Other vitamin B12 deficiency anaemias,DEFICIENCY_ANEMIAS
+D51.9,"Vitamin B12 deficiency anaemia, unspecified",DEFICIENCY_ANEMIAS
+D52.0,Dietary folate deficiency anaemia,DEFICIENCY_ANEMIAS
+D52.8,Other folate deficiency anaemias,DEFICIENCY_ANEMIAS
+D52.9,"Folate deficiency anaemia, unspecified",DEFICIENCY_ANEMIAS
+D53.0,Protein deficiency anaemia,DEFICIENCY_ANEMIAS
+D53.1,"Other megaloblastic anaemias, not elsewhere classified",DEFICIENCY_ANEMIAS
+D53.2,Scorbutic anaemia,DEFICIENCY_ANEMIAS
+D53.8,Other specified nutritional anaemias,DEFICIENCY_ANEMIAS
+D53.9,"Nutritional anaemia, unspecified",DEFICIENCY_ANEMIAS
+D65.,Disseminated intravascular coagulation [defibrination syndrome],COAGULOPATHY
+D66.,Hereditary factor VIII deficiency,COAGULOPATHY
+D67.,Hereditary factor IX deficiency,COAGULOPATHY
+D68.0,Von Willebrand's disease,COAGULOPATHY
+D68.1,Hereditary factor XI deficiency,COAGULOPATHY
+D68.2,Hereditary deficiency of other clotting factors,COAGULOPATHY
+D68.3,Haemorrhagic disorder due to circulating anticoagulants,COAGULOPATHY
+D68.4,Acquired coagulation factor deficiency,COAGULOPATHY
+D68.8,Other specified coagulation defects,COAGULOPATHY
+D68.9,"Coagulation defect, unspecified",COAGULOPATHY
+D69.1,Qualitative platelet defects,COAGULOPATHY
+D69.3,Idiopathic thrombocytopenic purpura,COAGULOPATHY
+D69.4,Other primary thrombocytopenia,COAGULOPATHY
+D69.5,Secondary thrombocytopenia,COAGULOPATHY
+D69.6,"Thrombocytopenia, unspecified",COAGULOPATHY
+E00.0,"Congenital iodine-deficiency syndrome, neurological type",HYPOTHYROIDISM
+E00.1,"Congenital iodine-deficiency syndrome, myxoedematous type",HYPOTHYROIDISM
+E00.2,"Congenital iodine-deficiency syndrome, mixed type",HYPOTHYROIDISM
+E00.9,"Congenital iodine-deficiency syndrome, unspecified",HYPOTHYROIDISM
+E01.0,Iodine-deficiency-related diffuse (endemic) goitre,HYPOTHYROIDISM
+E01.1,Iodine-deficiency-related multinodular (endemic) goitre,HYPOTHYROIDISM
+E01.2,"Iodine-deficiency-related (endemic) goitre, unspecified",HYPOTHYROIDISM
+E01.8,Other iodine-deficiency-related thyroid disorders and allied conditions,HYPOTHYROIDISM
+E02.,Subclinical iodine-deficiency hypothyroidism,HYPOTHYROIDISM
+E03.0,Congenital hypothyroidism with diffuse goitre,HYPOTHYROIDISM
+E03.1,Congenital hypothyroidism without goitre,HYPOTHYROIDISM
+E03.2,Hypothyroidism due to medicaments and other exogenous substances,HYPOTHYROIDISM
+E03.3,Postinfectious hypothyroidism,HYPOTHYROIDISM
+E03.4,Atrophy of thyroid (acquired),HYPOTHYROIDISM
+E03.5,Myxoedema coma,HYPOTHYROIDISM
+E03.8,Other specified hypothyroidism,HYPOTHYROIDISM
+E03.9,"Hypothyroidism, unspecified",HYPOTHYROIDISM
+E10.11,"Type 1 diabetes mellitus with ketoacidosis, without coma",DIABETES_UNCOMPLICATED
+E10.12,"Type 1 diabetes mellitus with ketoacidosis, with coma",DIABETES_UNCOMPLICATED
+E10.13,"Type 1 diabetes mellitus with lactic acidosis, without coma",DIABETES_UNCOMPLICATED
+E10.14,"Type 1 diabetes mellitus with lactic acidosis, with coma",DIABETES_UNCOMPLICATED
+E10.15,"Type 1 diabetes mellitus with ketoacidosis, with lactic acidosis, without coma",DIABETES_UNCOMPLICATED
+E10.16,"Type 1 diabetes mellitus with ketoacidosis, with lactic acidosis, with coma",DIABETES_UNCOMPLICATED
+E10.20,"Type 1 diabetes mellitus with renal complication, unspecified",DIABETES_COMPLICATED
+E10.21,Type 1 diabetes mellitus with incipient diabetic nephropathy,DIABETES_COMPLICATED
+E10.22,Type 1 diabetes mellitus with established diabetic nephropathy,DIABETES_COMPLICATED
+E10.23,Type 1 diabetes mellitus with advanced renal disease,DIABETES_COMPLICATED
+E10.29,Type 1 diabetes mellitus with other specified kidney complication,DIABETES_COMPLICATED
+E10.30,"Type 1 diabetes mellitus with ophthalmic complication, unspecified",DIABETES_COMPLICATED
+E10.31,Type 1 diabetes mellitus with background retinopathy,DIABETES_COMPLICATED
+E10.32,Type 1 diabetes mellitus with preproliferative retinopathy,DIABETES_COMPLICATED
+E10.33,Type 1 diabetes mellitus with proliferative retinopathy,DIABETES_COMPLICATED
+E10.34,Type 1 diabetes mellitus with other retinopathy,DIABETES_COMPLICATED
+E10.35,Type 1 diabetes mellitus with advanced ophthalmic disease,DIABETES_COMPLICATED
+E10.36,Type 1 diabetes mellitus with diabetic cataract,DIABETES_COMPLICATED
+E10.39,Type 1 diabetes mellitus with other specified ophthalmic complication,DIABETES_COMPLICATED
+E10.41,Type 1 diabetes mellitus with diabetic mononeuropathy,DIABETES_COMPLICATED
+E10.42,Type 1 diabetes mellitus with diabetic polyneuropathy,DIABETES_COMPLICATED
+E10.43,Type 1 diabetes mellitus with diabetic autonomic neuropathy,DIABETES_COMPLICATED
+E10.49,Type 1 diabetes mellitus with other specified neurological complication,DIABETES_COMPLICATED
+E10.50,"Type 1 diabetes mellitus with circulatory complication, unspecified",DIABETES_COMPLICATED
+E10.51,"Type 1 diabetes mellitus with peripheral angiopathy, without gangrene",DIABETES_COMPLICATED
+E10.52,"Type 1 diabetes mellitus with peripheral angiopathy, with gangrene",DIABETES_COMPLICATED
+E10.53,Type 1 diabetes mellitus with diabetic cardiomyopathy,DIABETES_COMPLICATED
+E10.59,Type 1 diabetes mellitus with other specified circulatory complication,DIABETES_COMPLICATED
+E10.64,Type 1 diabetes mellitus with hypoglycaemia,DIABETES_COMPLICATED
+E10.65,Type 1 diabetes mellitus with poor control,DIABETES_COMPLICATED
+E10.69,Type 1 diabetes mellitus with other specified complication,DIABETES_COMPLICATED
+E10.71,Type 1 diabetes mellitus with multiple microvascular and other specified nonvascular complications,DIABETES_COMPLICATED
+E10.73,Type 1 diabetes mellitus with foot ulcer due to multiple causes,DIABETES_COMPLICATED
+E10.8,Type 1 diabetes mellitus with unspecified complication,DIABETES_COMPLICATED
+E10.9,Type 1 diabetes mellitus without complication,DIABETES_UNCOMPLICATED
+E11.01,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycaemic-hyperosmolar coma [NKHHC],DIABETES_UNCOMPLICATED
+E11.02,Type 2 diabetes mellitus with hyperosmolarity with coma,DIABETES_UNCOMPLICATED
+E11.11,"Type 2 diabetes mellitus with ketoacidosis, without coma",DIABETES_UNCOMPLICATED
+E11.12,"Type 2 diabetes mellitus with ketoacidosis, with coma",DIABETES_UNCOMPLICATED
+E11.13,"Type 2 diabetes mellitus with lactic acidosis, without coma",DIABETES_UNCOMPLICATED
+E11.14,"Type 2 diabetes mellitus with lactic acidosis, with coma",DIABETES_UNCOMPLICATED
+E11.15,"Type 2 diabetes mellitus with ketoacidosis, with lactic acidosis, without coma",DIABETES_UNCOMPLICATED
+E11.16,"Type 2 diabetes mellitus with ketoacidosis, with lactic acidosis, with coma",DIABETES_UNCOMPLICATED
+E11.20,"Type 2 diabetes mellitus with renal complication, unspecified",DIABETES_COMPLICATED
+E11.21,Type 2 diabetes mellitus with incipient diabetic nephropathy,DIABETES_COMPLICATED
+E11.22,Type 2 diabetes mellitus with established diabetic nephropathy,DIABETES_COMPLICATED
+E11.23,Type 2 diabetes mellitus with advanced renal disease,DIABETES_COMPLICATED
+E11.29,Type 2 diabetes mellitus with other specified kidney complication,DIABETES_COMPLICATED
+E11.30,"Type 2 diabetes mellitus with ophthalmic complication, unspecified",DIABETES_COMPLICATED
+E11.31,Type 2 diabetes mellitus with background retinopathy,DIABETES_COMPLICATED
+E11.32,Type 2 diabetes mellitus with preproliferative retinopathy,DIABETES_COMPLICATED
+E11.33,Type 2 diabetes mellitus with proliferative retinopathy,DIABETES_COMPLICATED
+E11.34,Type 2 diabetes mellitus with other retinopathy,DIABETES_COMPLICATED
+E11.35,Type 2 diabetes mellitus with advanced ophthalmic disease,DIABETES_COMPLICATED
+E11.36,Type 2 diabetes mellitus with diabetic cataract,DIABETES_COMPLICATED
+E11.39,Type 2 diabetes mellitus with other specified ophthalmic complication,DIABETES_COMPLICATED
+E11.41,Type 2 diabetes mellitus with diabetic mononeuropathy,DIABETES_COMPLICATED
+E11.42,Type 2 diabetes mellitus with diabetic polyneuropathy,DIABETES_COMPLICATED
+E11.43,Type 2 diabetes mellitus with diabetic autonomic neuropathy,DIABETES_COMPLICATED
+E11.49,Type 2 diabetes mellitus with other specified neurological complication,DIABETES_COMPLICATED
+E11.50,"Type 2 diabetes mellitus with circulatory complication, unspecified",DIABETES_COMPLICATED
+E11.51,"Type 2 diabetes mellitus with peripheral angiopathy, without gangrene",DIABETES_COMPLICATED
+E11.52,"Type 2 diabetes mellitus with peripheral angiopathy, with gangrene",DIABETES_COMPLICATED
+E11.53,Type 2 diabetes mellitus with diabetic cardiomyopathy,DIABETES_COMPLICATED
+E11.59,Type 2 diabetes mellitus with other specified circulatory complication,DIABETES_COMPLICATED
+E11.64,Type 2 diabetes mellitus with hypoglycaemia,DIABETES_COMPLICATED
+E11.65,Type 2 diabetes mellitus with poor control,DIABETES_COMPLICATED
+E11.69,Type 2 diabetes mellitus with other specified complication,DIABETES_COMPLICATED
+E11.71,Type 2 diabetes mellitus with multiple microvascular and other specified nonvascular complications,DIABETES_COMPLICATED
+E11.72,Type 2 diabetes mellitus with features of insulin resistance,DIABETES_COMPLICATED
+E11.73,Type 2 diabetes mellitus with foot ulcer due to multiple causes,DIABETES_COMPLICATED
+E11.8,Type 2 diabetes mellitus with unspecified complication,DIABETES_COMPLICATED
+E11.9,Type 2 diabetes mellitus without complication,DIABETES_UNCOMPLICATED
+E13.02,"Other specified diabetes mellitus with hyperosmolarity, with coma",DIABETES_UNCOMPLICATED
+E13.12,"Other specified diabetes mellitus with ketoacidosis, with coma",DIABETES_UNCOMPLICATED
+E13.13,"Other specified diabetes mellitus with lactic acidosis, without coma",DIABETES_UNCOMPLICATED
+E13.14,"Other specified diabetes mellitus with lactic acidosis, with coma",DIABETES_UNCOMPLICATED
+E13.15,"Other specified diabetes mellitus with ketoacidosis, with lactic acidosis, without coma",DIABETES_UNCOMPLICATED
+E13.16,"Other specified diabetes mellitus with ketoacidosis, with lactic acidosis, with coma",DIABETES_UNCOMPLICATED
+E13.20,"Other specified diabetes mellitus with renal complication, unspecified",DIABETES_COMPLICATED
+E13.22,Other specified diabetes mellitus with established diabetic nephropathy,DIABETES_COMPLICATED
+E13.23,Other specified diabetes mellitus with advanced renal disease,DIABETES_COMPLICATED
+E13.29,Other specified diabetes mellitus with other specified kidney complication,DIABETES_COMPLICATED
+E13.30,"Other specified diabetes mellitus with ophthalmic complication, unspecified",DIABETES_COMPLICATED
+E13.32,Other specified diabetes mellitus with preproliferative retinopathy,DIABETES_COMPLICATED
+E13.33,Other specified diabetes mellitus with proliferative retinopathy,DIABETES_COMPLICATED
+E13.34,Other specified diabetes mellitus with other retinopathy,DIABETES_COMPLICATED
+E13.35,Other specified diabetes mellitus with advanced ophthalmic disease,DIABETES_COMPLICATED
+E13.36,Other specified diabetes mellitus with diabetic cataract,DIABETES_COMPLICATED
+E13.39,Other specified diabetes mellitus with other specified ophthalmic complication,DIABETES_COMPLICATED
+E13.42,Other specified diabetes mellitus with diabetic polyneuropathy,DIABETES_COMPLICATED
+E13.43,Other specified diabetes mellitus with diabetic autonomic neuropathy,DIABETES_COMPLICATED
+E13.49,Other specified diabetes mellitus with other specified neurological complication,DIABETES_COMPLICATED
+E13.50,"Other specified diabetes mellitus with circulatory complication, unspecified",DIABETES_COMPLICATED
+E13.52,"Other specified diabetes mellitus with peripheral angiopathy, with gangrene",DIABETES_COMPLICATED
+E13.53,Other specified diabetes mellitus with diabetic cardiomyopathy,DIABETES_COMPLICATED
+E13.59,Other specified diabetes mellitus with other specified circulatory complication,DIABETES_COMPLICATED
+E13.64,Other specified diabetes mellitus with hypoglycaemia,DIABETES_COMPLICATED
+E13.65,Other specified diabetes mellitus with poor control,DIABETES_COMPLICATED
+E13.69,Other specified diabetes mellitus with other specified complication,DIABETES_COMPLICATED
+E13.72,Other specified diabetes mellitus with features of insulin resistance,DIABETES_COMPLICATED
+E13.73,Other specified diabetes mellitus with foot ulcer due to multiple causes,DIABETES_COMPLICATED
+E13.8,Other specified diabetes mellitus with unspecified complication,DIABETES_COMPLICATED
+E13.9,Other specified diabetes mellitus without complication,DIABETES_UNCOMPLICATED
+E14.02,"Unspecified diabetes mellitus with hyperosmolarity, with coma",DIABETES_UNCOMPLICATED
+E14.12,"Unspecified diabetes mellitus with ketoacidosis, with coma",DIABETES_UNCOMPLICATED
+E14.13,"Unspecified diabetes mellitus with lactic acidosis, without coma",DIABETES_UNCOMPLICATED
+E14.14,"Unspecified diabetes mellitus with lactic acidosis, with coma",DIABETES_UNCOMPLICATED
+E14.15,"Unspecified diabetes mellitus with ketoacidosis, with lactic acidosis, without coma",DIABETES_UNCOMPLICATED
+E14.16,"Unspecified diabetes mellitus with ketoacidosis, with lactic acidosis, with coma",DIABETES_UNCOMPLICATED
+E14.20,"Unspecified diabetes mellitus with renal complication, unspecified",DIABETES_COMPLICATED
+E14.22,Unspecified diabetes mellitus with established diabetic nephropathy,DIABETES_COMPLICATED
+E14.23,Unspecified diabetes mellitus with advanced renal disease,DIABETES_COMPLICATED
+E14.29,Unspecified diabetes mellitus with other specified kidney complication,DIABETES_COMPLICATED
+E14.30,"Unspecified diabetes mellitus with ophthalmic complication, unspecified",DIABETES_COMPLICATED
+E14.32,Unspecified diabetes mellitus with preproliferative retinopathy,DIABETES_COMPLICATED
+E14.33,Unspecified diabetes mellitus with proliferative retinopathy,DIABETES_COMPLICATED
+E14.34,Unspecified diabetes mellitus with other retinopathy,DIABETES_COMPLICATED
+E14.35,Unspecified diabetes mellitus with advanced ophthalmic disease,DIABETES_COMPLICATED
+E14.36,Unspecified diabetes mellitus with diabetic cataract,DIABETES_COMPLICATED
+E14.39,Unspecified diabetes mellitus with other specified ophthalmic complication,DIABETES_COMPLICATED
+E14.42,Unspecified diabetes mellitus with diabetic polyneuropathy,DIABETES_COMPLICATED
+E14.43,Unspecified diabetes mellitus with diabetic autonomic neuropathy,DIABETES_COMPLICATED
+E14.49,Unspecified diabetes mellitus with other specified neurological complication,DIABETES_COMPLICATED
+E14.50,"Unspecified diabetes mellitus with circulatory complication, unspecified",DIABETES_COMPLICATED
+E14.52,"Unspecified diabetes mellitus with peripheral angiopathy, with gangrene",DIABETES_COMPLICATED
+E14.53,Unspecified diabetes mellitus with diabetic cardiomyopathy,DIABETES_COMPLICATED
+E14.59,Unspecified diabetes mellitus with other specified circulatory complication,DIABETES_COMPLICATED
+E14.64,Unspecified diabetes mellitus with hypoglycaemia,DIABETES_COMPLICATED
+E14.65,Unspecified diabetes mellitus with poor control,DIABETES_COMPLICATED
+E14.69,Unspecified diabetes mellitus with other specified complication,DIABETES_COMPLICATED
+E14.72,Unspecified diabetes mellitus with features of insulin resistance,DIABETES_COMPLICATED
+E14.73,Unspecified diabetes mellitus with foot ulcer due to multiple causes,DIABETES_COMPLICATED
+E14.8,Unspecified diabetes mellitus with unspecified complication,DIABETES_COMPLICATED
+E14.9,Unspecified diabetes mellitus without complication,DIABETES_UNCOMPLICATED
+E22.2,Syndrome of inappropriate secretion of antidiuretic hormone,FLUID_ELECTROLYTE_DISORDERS
+E40.,Kwashiorkor,WEIGHT_LOSS
+E41.,Nutritional marasmus,WEIGHT_LOSS
+E42.,Marasmic kwashiorkor,WEIGHT_LOSS
+E43.,Unspecified severe protein-energy malnutrition,WEIGHT_LOSS
+E44.0,Moderate protein-energy malnutrition,WEIGHT_LOSS
+E44.1,Mild protein-energy malnutrition,WEIGHT_LOSS
+E45.,Retarded development following protein-energy malnutrition,WEIGHT_LOSS
+E46.,Unspecified protein-energy malnutrition,WEIGHT_LOSS
+E52.,Niacin deficiency [pellagra],ALCOHOL_ABUSE
+E66.0,Obesity due to excess calories,OBESITY
+E66.1,Drug-induced obesity,OBESITY
+E66.2,Obesity with alveolar hypoventilation,OBESITY
+E66.8,Other obesity,OBESITY
+E66.9,"Obesity, not elsewhere classified",OBESITY
+E86.,Volume depletion,FLUID_ELECTROLYTE_DISORDERS
+E87.0,Hyperosmolality and hypernatraemia,FLUID_ELECTROLYTE_DISORDERS
+E87.1,Hypo-osmolality and hyponatraemia,FLUID_ELECTROLYTE_DISORDERS
+E87.2,Acidosis,FLUID_ELECTROLYTE_DISORDERS
+E87.3,Alkalosis,FLUID_ELECTROLYTE_DISORDERS
+E87.4,Mixed disorder of acid-base balance,FLUID_ELECTROLYTE_DISORDERS
+E87.5,Hyperkalaemia,FLUID_ELECTROLYTE_DISORDERS
+E87.6,Hypokalaemia,FLUID_ELECTROLYTE_DISORDERS
+E87.7,Fluid overload,FLUID_ELECTROLYTE_DISORDERS
+E87.8,"Other disorders of electrolyte and fluid balance, not elsewhere classified",FLUID_ELECTROLYTE_DISORDERS
+E89.0,Postprocedural hypothyroidism,HYPOTHYROIDISM
+F10.0,"Mental and behavioural disorders due to use of alcohol, acute intoxication",ALCOHOL_ABUSE
+F10.1,"Mental and behavioural disorders due to use of alcohol, harmful use",ALCOHOL_ABUSE
+F10.2,"Mental and behavioural disorders due to use of alcohol, dependence syndrome",ALCOHOL_ABUSE
+F10.3,"Mental and behavioural disorders due to use of alcohol, withdrawal state",ALCOHOL_ABUSE
+F10.4,"Mental and behavioural disorders due to use of alcohol, withdrawal state with delirium",ALCOHOL_ABUSE
+F10.5,"Mental and behavioural disorders due to use of alcohol, psychotic disorder",ALCOHOL_ABUSE
+F10.6,"Mental and behavioural disorders due to use of alcohol, amnesic syndrome",ALCOHOL_ABUSE
+F10.7,"Mental and behavioural disorders due to use of alcohol, residual and late-onset psychotic disorder",ALCOHOL_ABUSE
+F10.8,"Mental and behavioural disorders due to use of alcohol, other mental and behavioural disorders",ALCOHOL_ABUSE
+F10.9,"Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder",ALCOHOL_ABUSE
+F11.0,"Mental and behavioural disorders due to use of opioids, acute intoxication",DRUG_ABUSE
+F11.1,"Mental and behavioural disorders due to use of opioids, harmful use",DRUG_ABUSE
+F11.2,"Mental and behavioural disorders due to use of opioids, dependence syndrome",DRUG_ABUSE
+F11.3,"Mental and behavioural disorders due to use of opioids, withdrawal state",DRUG_ABUSE
+F11.4,"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium",DRUG_ABUSE
+F11.5,"Mental and behavioural disorders due to use of opioids, psychotic disorder",DRUG_ABUSE
+F11.6,"Mental and behavioural disorders due to use of opioids, amnesic syndrome",DRUG_ABUSE
+F11.7,"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder",DRUG_ABUSE
+F11.8,"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders",DRUG_ABUSE
+F11.9,"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder",DRUG_ABUSE
+F12.0,"Mental and behavioural disorders due to use of cannabinoids, acute intoxication",DRUG_ABUSE
+F12.1,"Mental and behavioural disorders due to use of cannabinoids, harmful use",DRUG_ABUSE
+F12.2,"Mental and behavioural disorders due to use of cannabinoids, dependence syndrome",DRUG_ABUSE
+F12.3,"Mental and behavioural disorders due to use of cannabinoids, withdrawal state",DRUG_ABUSE
+F12.4,"Mental and behavioural disorders due to use of cannabinoids, withdrawal state with delirium",DRUG_ABUSE
+F12.5,"Mental and behavioural disorders due to use of cannabinoids, psychotic disorder",DRUG_ABUSE
+F12.6,"Mental and behavioural disorders due to use of cannabinoids, amnesic syndrome",DRUG_ABUSE
+F12.7,"Mental and behavioural disorders due to use of cannabinoids, residual and late-onset psychotic disorder",DRUG_ABUSE
+F12.8,"Mental and behavioural disorders due to use of cannabinoids, other mental and behavioural disorders",DRUG_ABUSE
+F12.9,"Mental and behavioural disorders due to use of cannabinoids, unspecified mental and behavioural disorder",DRUG_ABUSE
+F13.0,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication",DRUG_ABUSE
+F13.1,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use",DRUG_ABUSE
+F13.2,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome",DRUG_ABUSE
+F13.3,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state",DRUG_ABUSE
+F13.4,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium",DRUG_ABUSE
+F13.5,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder",DRUG_ABUSE
+F13.6,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome",DRUG_ABUSE
+F13.7,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder",DRUG_ABUSE
+F13.8,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders",DRUG_ABUSE
+F13.9,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder",DRUG_ABUSE
+F14.0,"Mental and behavioural disorders due to use of cocaine, acute intoxication",DRUG_ABUSE
+F14.1,"Mental and behavioural disorders due to use of cocaine, harmful use",DRUG_ABUSE
+F14.2,"Mental and behavioural disorders due to use of cocaine, dependence syndrome",DRUG_ABUSE
+F14.3,"Mental and behavioural disorders due to use of cocaine, withdrawal state",DRUG_ABUSE
+F14.4,"Mental and behavioural disorders due to use of cocaine, withdrawal state with delirium",DRUG_ABUSE
+F14.5,"Mental and behavioural disorders due to use of cocaine, psychotic disorder",DRUG_ABUSE
+F14.6,"Mental and behavioural disorders due to use of cocaine, amnesic syndrome",DRUG_ABUSE
+F14.7,"Mental and behavioural disorders due to use of cocaine, residual and late-onset psychotic disorder",DRUG_ABUSE
+F14.8,"Mental and behavioural disorders due to use of cocaine, other mental and behavioural disorders",DRUG_ABUSE
+F14.9,"Mental and behavioural disorders due to use of cocaine, unspecified mental and behavioural disorder",DRUG_ABUSE
+F15.0,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication",DRUG_ABUSE
+F15.1,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use",DRUG_ABUSE
+F15.2,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome",DRUG_ABUSE
+F15.3,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state",DRUG_ABUSE
+F15.4,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium",DRUG_ABUSE
+F15.5,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder",DRUG_ABUSE
+F15.6,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome",DRUG_ABUSE
+F15.7,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder",DRUG_ABUSE
+F15.8,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders",DRUG_ABUSE
+F15.9,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder",DRUG_ABUSE
+F16.0,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication",DRUG_ABUSE
+F16.1,"Mental and behavioural disorders due to use of hallucinogens, harmful use",DRUG_ABUSE
+F16.2,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome",DRUG_ABUSE
+F16.3,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state",DRUG_ABUSE
+F16.4,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium",DRUG_ABUSE
+F16.5,"Mental and behavioural disorders due to use of hallucinogens, psychotic disorder",DRUG_ABUSE
+F16.6,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome",DRUG_ABUSE
+F16.7,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder",DRUG_ABUSE
+F16.8,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders",DRUG_ABUSE
+F16.9,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder",DRUG_ABUSE
+F18.0,"Mental and behavioural disorders due to use of volatile solvents, acute intoxication",DRUG_ABUSE
+F18.1,"Mental and behavioural disorders due to use of volatile solvents, harmful use",DRUG_ABUSE
+F18.2,"Mental and behavioural disorders due to use of volatile solvents, dependence syndrome",DRUG_ABUSE
+F18.3,"Mental and behavioural disorders due to use of volatile solvents, withdrawal state",DRUG_ABUSE
+F18.4,"Mental and behavioural disorders due to use of volatile solvents, withdrawal state with delirium",DRUG_ABUSE
+F18.5,"Mental and behavioural disorders due to use of volatile solvents, psychotic disorder",DRUG_ABUSE
+F18.6,"Mental and behavioural disorders due to use of volatile solvents, amnesic syndrome",DRUG_ABUSE
+F18.7,"Mental and behavioural disorders due to use of volatile solvents, residual and late-onset psychotic disorder",DRUG_ABUSE
+F18.8,"Mental and behavioural disorders due to use of volatile solvents, other mental and behavioural disorders",DRUG_ABUSE
+F18.9,"Mental and behavioural disorders due to use of volatile solvents, unspecified mental and behavioural disorder",DRUG_ABUSE
+F19.0,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, acute intoxication",DRUG_ABUSE
+F19.1,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, harmful use",DRUG_ABUSE
+F19.2,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, dependence syndrome",DRUG_ABUSE
+F19.3,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, withdrawal state",DRUG_ABUSE
+F19.4,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, withdrawal state with delirium",DRUG_ABUSE
+F19.5,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, psychotic disorder",DRUG_ABUSE
+F19.6,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, amnesic syndrome",DRUG_ABUSE
+F19.7,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, residual and late-onset psychotic disorder",DRUG_ABUSE
+F19.8,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, other mental and behavioural disorders",DRUG_ABUSE
+F19.9,"Mental and behavioural disorders due to multiple drug use and use of psychoactive substances, unspecified mental and behavioural disorder",DRUG_ABUSE
+F20.0,Paranoid schizophrenia,PSYCHOSES
+F20.1,Hebephrenic schizophrenia,PSYCHOSES
+F20.2,Catatonic schizophrenia,PSYCHOSES
+F20.3,Undifferentiated schizophrenia,PSYCHOSES
+F20.4,Post-schizophrenic depression,DEPRESSION
+F20.4,Post-schizophrenic depression,PSYCHOSES
+F20.5,Residual schizophrenia,PSYCHOSES
+F20.6,Simple schizophrenia,PSYCHOSES
+F20.8,Other schizophrenia,PSYCHOSES
+F20.9,"Schizophrenia, unspecified",PSYCHOSES
+F22.0,Delusional disorder,PSYCHOSES
+F22.8,Other persistent delusional disorders,PSYCHOSES
+F22.9,"Persistent delusional disorder, unspecified",PSYCHOSES
+F23.0,Acute polymorphic psychotic disorder without symptoms of schizophrenia,PSYCHOSES
+F23.1,Acute polymorphic psychotic disorder with symptoms of schizophrenia,PSYCHOSES
+F23.2,Acute schizophrenia-like psychotic disorder,PSYCHOSES
+F23.3,Other acute predominantly delusional psychotic disorders,PSYCHOSES
+F23.8,Other acute and transient psychotic disorders,PSYCHOSES
+F23.9,"Acute and transient psychotic disorder, unspecified",PSYCHOSES
+F24.,Induced delusional disorder,PSYCHOSES
+F25.0,"Schizoaffective disorder, manic type",PSYCHOSES
+F25.1,"Schizoaffective disorder, depressive type",PSYCHOSES
+F25.2,"Schizoaffective disorder, mixed type",PSYCHOSES
+F25.8,Other schizoaffective disorders,PSYCHOSES
+F25.9,"Schizoaffective disorder, unspecified",PSYCHOSES
+F28.,Other nonorganic psychotic disorders,PSYCHOSES
+F29.,Unspecified nonorganic psychosis,PSYCHOSES
+F30.2,Mania with psychotic symptoms,PSYCHOSES
+F31.2,"Bipolar affective disorder, current episode manic with psychotic symptoms",PSYCHOSES
+F31.3,"Bipolar affective disorder, current episode mild or moderate depression",DEPRESSION
+F31.4,"Bipolar affective disorder, current episode severe depression without psychotic symptoms",DEPRESSION
+F31.5,"Bipolar affective disorder, current episode severe depression with psychotic symptoms",PSYCHOSES
+F31.5,"Bipolar affective disorder, current episode severe depression with psychotic symptoms",DEPRESSION
+F32.00,"Mild depressive episode, not specified as arising in the postnatal period",DEPRESSION
+F32.01,"Mild depressive episode, arising in the postnatal period",DEPRESSION
+F32.10,"Moderate depressive episode, not specified as arising in the postnatal period",DEPRESSION
+F32.11,"Moderate depressive episode, arising in the postnatal period",DEPRESSION
+F32.20,"Severe depressive episode without psychotic symptoms, not specified as arising in the postnatal period",DEPRESSION
+F32.21,"Severe depressive episode without psychotic symptoms, arising in the postnatal period",DEPRESSION
+F32.30,"Severe depressive episode with psychotic symptoms, not specified as arising in the postnatal period",DEPRESSION
+F32.31,"Severe depressive episode with psychotic symptoms, arising in the postnatal period",DEPRESSION
+F32.80,"Other depressive episodes, not specified as arising in the postnatal period",DEPRESSION
+F32.81,"Other depressive episodes, arising in the postnatal period",DEPRESSION
+F32.90,"Depressive episode, unspecified, not specified as arising in the postnatal period",DEPRESSION
+F32.91,"Depressive episode, unspecified, arising in the postnatal period",DEPRESSION
+F33.0,"Recurrent depressive disorder, current episode mild",DEPRESSION
+F33.1,"Recurrent depressive disorder, current episode moderate",DEPRESSION
+F33.2,"Recurrent depressive disorder, current episode severe without psychotic symptoms",DEPRESSION
+F33.3,"Recurrent depressive disorder, current episode severe with psychotic symptoms",DEPRESSION
+F33.4,"Recurrent depressive disorder, currently in remission",DEPRESSION
+F33.8,Other recurrent depressive disorders,DEPRESSION
+F33.9,"Recurrent depressive disorder, unspecified",DEPRESSION
+F41.2,Mixed anxiety and depressive disorder,DEPRESSION
+F43.2,Adjustment disorders,DEPRESSION
+G04.1,Human T-cell lymphotrophic virus associated myelopathy,PARALYSIS
+G10.,Huntington's disease,OTHER_NEUROLOGICAL_DISORDERS
+G11.0,Congenital nonprogressive ataxia,OTHER_NEUROLOGICAL_DISORDERS
+G11.1,Early-onset cerebellar ataxia,OTHER_NEUROLOGICAL_DISORDERS
+G11.2,Late-onset cerebellar ataxia,OTHER_NEUROLOGICAL_DISORDERS
+G11.3,Cerebellar ataxia with defective DNA repair,OTHER_NEUROLOGICAL_DISORDERS
+G11.4,Hereditary spastic paraplegia,OTHER_NEUROLOGICAL_DISORDERS
+G11.4,Hereditary spastic paraplegia,PARALYSIS
+G11.8,Other hereditary ataxias,OTHER_NEUROLOGICAL_DISORDERS
+G11.9,"Hereditary ataxia, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+G12.,Spinal muscular atrophy and related syndromes,OTHER_NEUROLOGICAL_DISORDERS
+G12.0,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]",OTHER_NEUROLOGICAL_DISORDERS
+G12.1,Other inherited spinal muscular atrophy,OTHER_NEUROLOGICAL_DISORDERS
+G12.2,Motor neuron disease,OTHER_NEUROLOGICAL_DISORDERS
+G12.8,Other spinal muscular atrophies and related syndromes,OTHER_NEUROLOGICAL_DISORDERS
+G12.9,"Spinal muscular atrophy, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+G13.0,Paraneoplastic neuromyopathy and neuropathy,OTHER_NEUROLOGICAL_DISORDERS
+G13.1,Other systemic atrophy primarily affecting central nervous system in neoplastic disease,OTHER_NEUROLOGICAL_DISORDERS
+G13.2,"Systemic atrophy primarily affecting central nervous system in myxoedema (E00.1+, E03.-+)",OTHER_NEUROLOGICAL_DISORDERS
+G13.8,Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere,OTHER_NEUROLOGICAL_DISORDERS
+G20.,Parkinson's disease,OTHER_NEUROLOGICAL_DISORDERS
+G21.0,Malignant neuroleptic syndrome,OTHER_NEUROLOGICAL_DISORDERS
+G21.1,Other drug-induced secondary parkinsonism,OTHER_NEUROLOGICAL_DISORDERS
+G21.2,Secondary parkinsonism due to other external agents,OTHER_NEUROLOGICAL_DISORDERS
+G21.3,Postencephalitic parkinsonism,OTHER_NEUROLOGICAL_DISORDERS
+G21.8,Other secondary parkinsonism,OTHER_NEUROLOGICAL_DISORDERS
+G21.9,"Secondary parkinsonism, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+G22.,Parkinsonism in diseases classified elsewhere,OTHER_NEUROLOGICAL_DISORDERS
+G25.4,Drug-induced chorea,OTHER_NEUROLOGICAL_DISORDERS
+G25.5,Other chorea,OTHER_NEUROLOGICAL_DISORDERS
+G31.2,Degeneration of nervous system due to alcohol,OTHER_NEUROLOGICAL_DISORDERS
+G31.8,Other specified degenerative diseases of nervous system,OTHER_NEUROLOGICAL_DISORDERS
+G31.9,"Degenerative disease of nervous system, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+G32.0,Subacute combined degeneration of spinal cord in diseases classified elsewhere,OTHER_NEUROLOGICAL_DISORDERS
+G32.8,Other specified degenerative disorders of nervous system in diseases classified elsewhere,OTHER_NEUROLOGICAL_DISORDERS
+G35.,Multiple sclerosis,OTHER_NEUROLOGICAL_DISORDERS
+G36.0,Neuromyelitis optica [Devic],OTHER_NEUROLOGICAL_DISORDERS
+G36.1,Acute and subacute haemorrhagic leukoencephalitis [Hurst],OTHER_NEUROLOGICAL_DISORDERS
+G36.8,Other specified acute disseminated demyelination,OTHER_NEUROLOGICAL_DISORDERS
+G36.9,"Acute disseminated demyelination, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+G37.0,Diffuse sclerosis,OTHER_NEUROLOGICAL_DISORDERS
+G37.1,Central demyelination of corpus callosum,OTHER_NEUROLOGICAL_DISORDERS
+G37.2,Central pontine myelinolysis,OTHER_NEUROLOGICAL_DISORDERS
+G37.3,Acute transverse myelitis in demyelinating disease of central nervous system,OTHER_NEUROLOGICAL_DISORDERS
+G37.4,Subacute necrotising myelitis,OTHER_NEUROLOGICAL_DISORDERS
+G37.5,Concentric sclerosis [Balo],OTHER_NEUROLOGICAL_DISORDERS
+G37.8,Other specified demyelinating diseases of central nervous system,OTHER_NEUROLOGICAL_DISORDERS
+G37.9,"Demyelinating disease of central nervous system, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+G40.00,"Localisation-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localised onset, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.01,"Localisation-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localised onset, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.10,"Localisation-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.11,"Localisation-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.20,"Localisation-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.21,"Localisation-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.30,"Generalised idiopathic epilepsy and epileptic syndromes, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.31,"Generalised idiopathic epilepsy and epileptic syndromes, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.40,"Other generalised epilepsy and epileptic syndromes, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.41,"Other generalised epilepsy and epileptic syndromes, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.50,"Special epileptic syndromes, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.51,"Special epileptic syndromes, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.60,"Grand mal seizures, unspecified (with or without petit mal), without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.61,"Grand mal seizures, unspecified (with or without petit mal), with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.70,"Petit mal, unspecified, without grand mal seizures, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.71,"Petit mal, unspecified, without grand mal seizures, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.80,"Other epilepsy, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.81,"Other epilepsy, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.90,"Epilepsy, unspecified, without mention of intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G40.91,"Epilepsy, unspecified, with intractable epilepsy",OTHER_NEUROLOGICAL_DISORDERS
+G41.0,Grand mal status epilepticus,OTHER_NEUROLOGICAL_DISORDERS
+G41.1,Petit mal status epilepticus,OTHER_NEUROLOGICAL_DISORDERS
+G41.2,Complex partial status epilepticus,OTHER_NEUROLOGICAL_DISORDERS
+G41.8,Other status epilepticus,OTHER_NEUROLOGICAL_DISORDERS
+G41.9,"Status epilepticus, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+G62.1,Alcoholic polyneuropathy,ALCOHOL_ABUSE
+G80.01,Spastic diplegic cerebral palsy,PARALYSIS
+G80.02,Spastic hemiplegic cerebral palsy,PARALYSIS
+G81.0,Flaccid hemiplegia,PARALYSIS
+G81.1,Spastic hemiplegia,PARALYSIS
+G81.9,"Hemiplegia, unspecified",PARALYSIS
+G82.00,"Flaccid paraplegia, unspecified",PARALYSIS
+G82.01,"Flaccid paraplegia, unspecified, acute",PARALYSIS
+G82.02,"Flaccid paraplegia, unspecified, chronic",PARALYSIS
+G82.03,"Flaccid paraplegia, complete, acute",PARALYSIS
+G82.04,"Flaccid paraplegia, complete, chronic",PARALYSIS
+G82.05,"Flaccid paraplegia, incomplete, acute",PARALYSIS
+G82.06,"Flaccid paraplegia, incomplete, chronic",PARALYSIS
+G82.10,"Spastic paraplegia, unspecified",PARALYSIS
+G82.11,"Spastic paraplegia, unspecified, acute",PARALYSIS
+G82.12,"Spastic paraplegia, unspecified chronic",PARALYSIS
+G82.13,"Spastic paraplegia, complete, acute",PARALYSIS
+G82.14,"Spastic paraplegia, complete, chronic",PARALYSIS
+G82.15,"Spastic paraplegia, incomplete, acute",PARALYSIS
+G82.16,"Spastic paraplegia, incomplete, chronic",PARALYSIS
+G82.20,"Paraplegia, unspecified, unspecified",PARALYSIS
+G82.21,"Paraplegia, unspecified, acute",PARALYSIS
+G82.22,"Paraplegia, unspecified, chronic",PARALYSIS
+G82.23,"Paraplegia, unspecified, complete, acute",PARALYSIS
+G82.24,"Paraplegia, unspecified, complete, chronic",PARALYSIS
+G82.25,"Paraplegia, unspecified, incomplete, acute",PARALYSIS
+G82.26,"Paraplegia, unspecified, incomplete, chronic",PARALYSIS
+G82.30,"Flaccid tetraplegia, unspecified",PARALYSIS
+G82.31,"Flaccid tetraplegia, unspecified, acute",PARALYSIS
+G82.32,"Flaccid tetraplegia, unspecified, chronic",PARALYSIS
+G82.33,"Flaccid tetraplegia, complete, acute",PARALYSIS
+G82.34,"Flaccid tetraplegia, complete, chronic",PARALYSIS
+G82.35,"Flaccid tetraplegia, incomplete, acute",PARALYSIS
+G82.36,"Flaccid tetraplegia, incomplete, chronic",PARALYSIS
+G82.40,"Spastic tetraplegia, unspecified",PARALYSIS
+G82.41,"Spastic tetraplegia, unspecified, acute",PARALYSIS
+G82.42,"Spastic tetraplegia, unspecified, chronic",PARALYSIS
+G82.43,"Spastic tetraplegia, complete, acute",PARALYSIS
+G82.44,"Spastic tetraplegia, complete, chronic",PARALYSIS
+G82.45,"Spastic tetraplegia, incomplete, acute",PARALYSIS
+G82.46,"Spastic tetraplegia, incomplete, chronic",PARALYSIS
+G82.50,"Tetraplegia, unspecified, unspecified",PARALYSIS
+G82.51,"Tetraplegia, unspecified, acute",PARALYSIS
+G82.52,"Tetraplegia, unspecified, chronic",PARALYSIS
+G82.53,"Tetraplegia, unspecified, complete, acute",PARALYSIS
+G82.54,"Tetraplegia, unspecified, complete, chronic",PARALYSIS
+G82.55,"Tetraplegia, unspecified, incomplete, acute",PARALYSIS
+G82.56,"Tetraplegia, unspecified, incomplete, chronic",PARALYSIS
+G83.0,Diplegia of upper limbs,PARALYSIS
+G83.1,Monoplegia of lower limb,PARALYSIS
+G83.2,Monoplegia of upper limb,PARALYSIS
+G83.3,"Monoplegia, unspecified",PARALYSIS
+G83.4,Cauda equina syndrome,PARALYSIS
+G83.9,"Paralytic syndrome, unspecified",PARALYSIS
+G93.1,"Anoxic brain damage, not elsewhere classified",OTHER_NEUROLOGICAL_DISORDERS
+G93.4,"Encephalopathy, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+I05.0,Mitral stenosis,VALVULAR_DISEASE
+I05.1,Rheumatic mitral insufficiency,VALVULAR_DISEASE
+I05.2,Mitral stenosis with insufficiency,VALVULAR_DISEASE
+I05.8,Other mitral valve diseases,VALVULAR_DISEASE
+I05.9,"Mitral valve disease, unspecified",VALVULAR_DISEASE
+I06.0,Rheumatic aortic stenosis,VALVULAR_DISEASE
+I06.1,Rheumatic aortic insufficiency,VALVULAR_DISEASE
+I06.2,Rheumatic aortic stenosis with insufficiency,VALVULAR_DISEASE
+I06.8,Other rheumatic aortic valve diseases,VALVULAR_DISEASE
+I06.9,"Rheumatic aortic valve disease, unspecified",VALVULAR_DISEASE
+I07.0,Tricuspid stenosis,VALVULAR_DISEASE
+I07.1,Tricuspid insufficiency,VALVULAR_DISEASE
+I07.2,Tricuspid stenosis with insufficiency,VALVULAR_DISEASE
+I07.8,Other tricuspid valve diseases,VALVULAR_DISEASE
+I07.9,"Tricuspid valve disease, unspecified",VALVULAR_DISEASE
+I08.0,Disorders of both mitral and aortic valves,VALVULAR_DISEASE
+I08.1,Disorders of both mitral and tricuspid valves,VALVULAR_DISEASE
+I08.2,Disorders of both aortic and tricuspid valves,VALVULAR_DISEASE
+I08.3,"Combined disorders of mitral, aortic and tricuspid valves",VALVULAR_DISEASE
+I08.8,Other multiple valve diseases,VALVULAR_DISEASE
+I08.9,"Multiple valve disease, unspecified",VALVULAR_DISEASE
+I09.1,"Rheumatic diseases of endocardium, valve unspecified",VALVULAR_DISEASE
+I09.8,Other specified rheumatic heart diseases,VALVULAR_DISEASE
+I09.9,"Rheumatic heart disease, unspecified",CHF
+I10.,Essential (primary) hypertension,HYPERTENSION_COMBINED
+I11.0,Hypertensive heart disease with (congestive) heart failure,CHF
+I11.0,Hypertensive heart disease with (congestive) heart failure,HYPERTENSION_COMBINED
+I11.9,Hypertensive heart disease without (congestive) heart failure,HYPERTENSION_COMBINED
+I12.0,Hypertensive kidney disease with kidney failure,RENAL_FAILURE
+I12.0,Hypertensive kidney disease with kidney failure,HYPERTENSION_COMBINED
+I12.9,Hypertensive kidney disease without kidney failure,HYPERTENSION_COMBINED
+I13.0,Hypertensive heart and kidney disease with (congestive) heart failure,HYPERTENSION_COMBINED
+I13.0,Hypertensive heart and kidney disease with (congestive) heart failure,CHF
+I13.1,Hypertensive heart and kidney disease with kidney failure,HYPERTENSION_COMBINED
+I13.1,Hypertensive heart and kidney disease with kidney failure,RENAL_FAILURE
+I13.2,Hypertensive heart and kidney disease with both (congestive) heart failure and kidney failure,HYPERTENSION_COMBINED
+I13.2,Hypertensive heart and kidney disease with both (congestive) heart failure and kidney failure,CHF
+I13.9,"Hypertensive heart and kidney disease, unspecified",HYPERTENSION_COMBINED
+I15.0,Renovascular hypertension,HYPERTENSION_COMBINED
+I15.1,Hypertension secondary to other kidney disorders,HYPERTENSION_COMBINED
+I15.2,Hypertension secondary to endocrine disorders,HYPERTENSION_COMBINED
+I15.8,Other secondary hypertension,HYPERTENSION_COMBINED
+I15.9,"Secondary hypertension, unspecified",HYPERTENSION_COMBINED
+I25.5,Ischaemic cardiomyopathy,CHF
+I26.0,Pulmonary embolism with mention of acute cor pulmonale,PULMONARY_CIRCULATION_DISORDERS
+I26.9,Pulmonary embolism without mention of acute cor pulmonale,PULMONARY_CIRCULATION_DISORDERS
+I27.0,Primary pulmonary hypertension,PULMONARY_CIRCULATION_DISORDERS
+I27.1,Kyphoscoliotic heart disease,PULMONARY_CIRCULATION_DISORDERS
+I27.2,Other secondary pulmonary hypertension,PULMONARY_CIRCULATION_DISORDERS
+I27.8,Other specified pulmonary heart diseases,PULMONARY_CIRCULATION_DISORDERS
+I27.8,Other specified pulmonary heart diseases,CHRONIC_PULMONARY_DISEASE
+I27.9,"Pulmonary heart disease, unspecified",PULMONARY_CIRCULATION_DISORDERS
+I27.9,"Pulmonary heart disease, unspecified",CHRONIC_PULMONARY_DISEASE
+I28.0,Arteriovenous fistula of pulmonary vessels,PULMONARY_CIRCULATION_DISORDERS
+I28.8,Other specified diseases of pulmonary vessels,PULMONARY_CIRCULATION_DISORDERS
+I28.9,"Disease of pulmonary vessels, unspecified",PULMONARY_CIRCULATION_DISORDERS
+I34.0,Mitral (valve) insufficiency,VALVULAR_DISEASE
+I34.1,Mitral (valve) prolapse,VALVULAR_DISEASE
+I34.2,Nonrheumatic mitral (valve) stenosis,VALVULAR_DISEASE
+I34.8,Other nonrheumatic mitral valve disorders,VALVULAR_DISEASE
+I34.9,"Nonrheumatic mitral valve disorder, unspecified",VALVULAR_DISEASE
+I35.0,Aortic (valve) stenosis,VALVULAR_DISEASE
+I35.1,Aortic (valve) insufficiency,VALVULAR_DISEASE
+I35.2,Aortic (valve) stenosis with insufficiency,VALVULAR_DISEASE
+I35.8,Other aortic valve disorders,VALVULAR_DISEASE
+I35.9,"Aortic valve disorder, unspecified",VALVULAR_DISEASE
+I36.0,Nonrheumatic tricuspid (valve) stenosis,VALVULAR_DISEASE
+I36.1,Nonrheumatic tricuspid (valve) insufficiency,VALVULAR_DISEASE
+I36.2,Nonrheumatic tricuspid (valve) stenosis with insufficiency,VALVULAR_DISEASE
+I36.8,Other nonrheumatic tricuspid valve disorders,VALVULAR_DISEASE
+I36.9,"Nonrheumatic tricuspid valve disorder, unspecified",VALVULAR_DISEASE
+I37.0,Pulmonary valve stenosis,VALVULAR_DISEASE
+I37.1,Pulmonary valve insufficiency,VALVULAR_DISEASE
+I37.2,Pulmonary valve stenosis with insufficiency,VALVULAR_DISEASE
+I37.8,Other pulmonary valve disorders,VALVULAR_DISEASE
+I37.9,"Pulmonary valve disorder, unspecified",VALVULAR_DISEASE
+I38.,"Endocarditis, valve unspecified",VALVULAR_DISEASE
+I39.0,Mitral valve disorders in diseases classified elsewhere,VALVULAR_DISEASE
+I39.1,Aortic valve disorders in diseases classified elsewhere,VALVULAR_DISEASE
+I39.2,Tricuspid valve disorders in diseases classified elsewhere,VALVULAR_DISEASE
+I39.3,Pulmonary valve disorders in diseases classified elsewhere,VALVULAR_DISEASE
+I39.4,Multiple valve disorders in diseases classified elsewhere,VALVULAR_DISEASE
+I39.8,"Endocarditis, valve unspecified, in diseases classified elsewhere",VALVULAR_DISEASE
+I42.0,Dilated cardiomyopathy,CHF
+I42.5,Other restrictive cardiomyopathy,CHF
+I42.6,Alcoholic cardiomyopathy,CHF
+I42.6,Alcoholic cardiomyopathy,ALCOHOL_ABUSE
+I42.7,Cardiomyopathy due to drugs and other external agents,CHF
+I42.8,Other cardiomyopathies,CHF
+I42.9,"Cardiomyopathy, unspecified",CHF
+I43.0,Cardiomyopathy in infectious and parasitic diseases classified elsewhere,CHF
+I43.1,Cardiomyopathy in metabolic diseases,CHF
+I43.2,Cardiomyopathy in nutritional diseases,CHF
+I43.8,Cardiomyopathy in other diseases classified elsewhere,CHF
+I44.1,"Atrioventricular block, second degree",CARDIAC_ARRHYTHMIAS
+I44.2,"Atrioventricular block, complete",CARDIAC_ARRHYTHMIAS
+I44.3,Other and unspecified atrioventricular block,CARDIAC_ARRHYTHMIAS
+I45.6,Pre-excitation syndrome,CARDIAC_ARRHYTHMIAS
+I45.9,"Conduction disorder, unspecified",CARDIAC_ARRHYTHMIAS
+I47.0,Re-entry ventricular arrhythmia,CARDIAC_ARRHYTHMIAS
+I47.1,Supraventricular tachycardia,CARDIAC_ARRHYTHMIAS
+I47.2,Ventricular tachycardia,CARDIAC_ARRHYTHMIAS
+I47.9,"Paroxysmal tachycardia, unspecified",CARDIAC_ARRHYTHMIAS
+I48.,Atrial fibrillation and flutter,CARDIAC_ARRHYTHMIAS
+I49.0,Ventricular fibrillation and flutter,CARDIAC_ARRHYTHMIAS
+I49.1,Atrial premature depolarisation,CARDIAC_ARRHYTHMIAS
+I49.2,Junctional premature depolarisation,CARDIAC_ARRHYTHMIAS
+I49.3,Ventricular premature depolarisation,CARDIAC_ARRHYTHMIAS
+I49.4,Other and unspecified premature depolarisation,CARDIAC_ARRHYTHMIAS
+I49.5,"Sinus node dysfunction, not elsewhere classified",CARDIAC_ARRHYTHMIAS
+I49.8,Other specified cardiac arrhythmias,CARDIAC_ARRHYTHMIAS
+I49.9,"Cardiac arrhythmia, unspecified",CARDIAC_ARRHYTHMIAS
+I50.0,Congestive heart failure,CHF
+I50.1,Left ventricular failure,CHF
+I50.9,"Heart failure, unspecified",CHF
+I70.0,Atherosclerosis of aorta,PERIPHERAL_VASCULAR_DISORDERS
+I70.1,Atherosclerosis of renal artery,PERIPHERAL_VASCULAR_DISORDERS
+I70.20,"Atherosclerosis of arteries of extremities, unspecified",PERIPHERAL_VASCULAR_DISORDERS
+I70.21,Atherosclerosis of arteries of extremities with intermittent claudication,PERIPHERAL_VASCULAR_DISORDERS
+I70.22,Atherosclerosis of arteries of extremities with rest pain,PERIPHERAL_VASCULAR_DISORDERS
+I70.23,Atherosclerosis of arteries of extremities with ulceration,PERIPHERAL_VASCULAR_DISORDERS
+I70.24,Atherosclerosis of arteries of extremities with gangrene,PERIPHERAL_VASCULAR_DISORDERS
+I70.8,Atherosclerosis of other arteries,PERIPHERAL_VASCULAR_DISORDERS
+I70.9,Generalised and unspecified atherosclerosis,PERIPHERAL_VASCULAR_DISORDERS
+I71.00,"Dissection of aorta, unspecified site",PERIPHERAL_VASCULAR_DISORDERS
+I71.01,Dissection of thoracic aorta,PERIPHERAL_VASCULAR_DISORDERS
+I71.02,Dissection of abdominal aorta,PERIPHERAL_VASCULAR_DISORDERS
+I71.03,Dissection of thoracoabdominal aorta,PERIPHERAL_VASCULAR_DISORDERS
+I71.1,"Thoracic aortic aneurysm, ruptured",PERIPHERAL_VASCULAR_DISORDERS
+I71.2,"Thoracic aortic aneurysm, without mention of rupture",PERIPHERAL_VASCULAR_DISORDERS
+I71.3,"Abdominal aortic aneurysm, ruptured",PERIPHERAL_VASCULAR_DISORDERS
+I71.4,"Abdominal aortic aneurysm, without mention of rupture",PERIPHERAL_VASCULAR_DISORDERS
+I71.5,"Thoracoabdominal aortic aneurysm, ruptured",PERIPHERAL_VASCULAR_DISORDERS
+I71.6,"Thoracoabdominal aortic aneurysm, without mention of rupture",PERIPHERAL_VASCULAR_DISORDERS
+I71.8,"Aortic aneurysm of unspecified site, ruptured",PERIPHERAL_VASCULAR_DISORDERS
+I71.9,"Aortic aneurysm of unspecified site, without mention of rupture",PERIPHERAL_VASCULAR_DISORDERS
+I73.1,Thromboangiitis obliterans [Buerger],PERIPHERAL_VASCULAR_DISORDERS
+I73.8,Other specified peripheral vascular diseases,PERIPHERAL_VASCULAR_DISORDERS
+I73.9,"Peripheral vascular disease, unspecified",PERIPHERAL_VASCULAR_DISORDERS
+I77.1,Stricture of artery,PERIPHERAL_VASCULAR_DISORDERS
+I79.0,Aneurysm of aorta in diseases classified elsewhere,PERIPHERAL_VASCULAR_DISORDERS
+I79.2,Peripheral angiopathy in diseases classified elsewhere,PERIPHERAL_VASCULAR_DISORDERS
+I85.0,Oesophageal varices with bleeding,LIVER_DISEASE
+I85.9,Oesophageal varices without bleeding,LIVER_DISEASE
+I86.4,Gastric varices,LIVER_DISEASE
+I98.2,Oesophageal varices without mention of bleeding in diseases classified elsewhere,LIVER_DISEASE
+I98.20,"Oesophageal varices in diseases classified elsewhere, without mention of bleeding",LIVER_DISEASE
+I98.21,"Oesophageal varices in diseases classified elsewhere, with bleeding",LIVER_DISEASE
+J40.,"Bronchitis, not specified as acute or chronic",CHRONIC_PULMONARY_DISEASE
+J41.0,Simple chronic bronchitis,CHRONIC_PULMONARY_DISEASE
+J41.1,Mucopurulent chronic bronchitis,CHRONIC_PULMONARY_DISEASE
+J41.8,Mixed simple and mucopurulent chronic bronchitis,CHRONIC_PULMONARY_DISEASE
+J42.,Unspecified chronic bronchitis,CHRONIC_PULMONARY_DISEASE
+J43.0,MacLeod's syndrome,CHRONIC_PULMONARY_DISEASE
+J43.1,Panlobular emphysema,CHRONIC_PULMONARY_DISEASE
+J43.2,Centrilobular emphysema,CHRONIC_PULMONARY_DISEASE
+J43.8,Other emphysema,CHRONIC_PULMONARY_DISEASE
+J43.9,"Emphysema, unspecified",CHRONIC_PULMONARY_DISEASE
+J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection,CHRONIC_PULMONARY_DISEASE
+J44.1,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",CHRONIC_PULMONARY_DISEASE
+J44.8,Other specified chronic obstructive pulmonary disease,CHRONIC_PULMONARY_DISEASE
+J44.9,"Chronic obstructive pulmonary disease, unspecified",CHRONIC_PULMONARY_DISEASE
+J45.0,Predominantly allergic asthma,CHRONIC_PULMONARY_DISEASE
+J45.1,Nonallergic asthma,CHRONIC_PULMONARY_DISEASE
+J45.8,Mixed asthma,CHRONIC_PULMONARY_DISEASE
+J45.9,"Asthma, unspecified",CHRONIC_PULMONARY_DISEASE
+J46.,Status asthmaticus,CHRONIC_PULMONARY_DISEASE
+J47.,Bronchiectasis,CHRONIC_PULMONARY_DISEASE
+J60.,Coalworker's pneumoconiosis,CHRONIC_PULMONARY_DISEASE
+J61.,Pneumoconiosis due to asbestos and other mineral fibres,CHRONIC_PULMONARY_DISEASE
+J62.0,Pneumoconiosis due to talc dust,CHRONIC_PULMONARY_DISEASE
+J62.8,Pneumoconiosis due to other dust containing silica,CHRONIC_PULMONARY_DISEASE
+J63.0,Aluminosis (of lung),CHRONIC_PULMONARY_DISEASE
+J63.1,Bauxite fibrosis (of lung),CHRONIC_PULMONARY_DISEASE
+J63.2,Berylliosis,CHRONIC_PULMONARY_DISEASE
+J63.3,Graphite fibrosis (of lung),CHRONIC_PULMONARY_DISEASE
+J63.4,Siderosis,CHRONIC_PULMONARY_DISEASE
+J63.5,Stannosis,CHRONIC_PULMONARY_DISEASE
+J63.8,Pneumoconiosis due to other specified inorganic dusts,CHRONIC_PULMONARY_DISEASE
+J64.,Unspecified pneumoconiosis,CHRONIC_PULMONARY_DISEASE
+J65.,Pneumoconiosis associated with tuberculosis,CHRONIC_PULMONARY_DISEASE
+J66.0,Byssinosis,CHRONIC_PULMONARY_DISEASE
+J66.1,Flax-dresser's disease,CHRONIC_PULMONARY_DISEASE
+J66.2,Cannabinosis,CHRONIC_PULMONARY_DISEASE
+J66.8,Airway disease due to other specific organic dusts,CHRONIC_PULMONARY_DISEASE
+J67.0,Farmer's lung,CHRONIC_PULMONARY_DISEASE
+J67.1,Bagassosis,CHRONIC_PULMONARY_DISEASE
+J67.2,Bird fancier's lung,CHRONIC_PULMONARY_DISEASE
+J67.3,Suberosis,CHRONIC_PULMONARY_DISEASE
+J67.4,Maltworker's lung,CHRONIC_PULMONARY_DISEASE
+J67.5,Mushroom-worker's lung,CHRONIC_PULMONARY_DISEASE
+J67.6,Maple-bark-stripper's lung,CHRONIC_PULMONARY_DISEASE
+J67.7,Air-conditioner and humidifier lung,CHRONIC_PULMONARY_DISEASE
+J67.8,Hypersensitivity pneumonitis due to other organic dusts,CHRONIC_PULMONARY_DISEASE
+J67.9,Hypersensitivity pneumonitis due to unspecified organic dust,CHRONIC_PULMONARY_DISEASE
+J68.4,"Chronic respiratory conditions due to chemicals, gases, fumes and vapours",CHRONIC_PULMONARY_DISEASE
+J70.1,Chronic and other pulmonary manifestations due to radiation,CHRONIC_PULMONARY_DISEASE
+J70.3,Chronic drug-induced interstitial lung disorders,CHRONIC_PULMONARY_DISEASE
+K25.7,"Gastric ulcer, chronic without haemorrhage or perforation",PEPTIC_ULCER_EXCLUDING_BLEEDING
+K25.9,"Gastric ulcer, unspecified as acute or chronic, without haemorrhage or perforation",PEPTIC_ULCER_EXCLUDING_BLEEDING
+K26.7,"Duodenal ulcer, chronic without haemorrhage or perforation",PEPTIC_ULCER_EXCLUDING_BLEEDING
+K26.9,"Duodenal ulcer, unspecified as acute or chronic, without haemorrhage or perforation",PEPTIC_ULCER_EXCLUDING_BLEEDING
+K27.7,"Peptic ulcer, chronic without haemorrhage or perforation",PEPTIC_ULCER_EXCLUDING_BLEEDING
+K27.9,"Peptic ulcer, unspecified as acute or chronic, without haemorrhage or perforation",PEPTIC_ULCER_EXCLUDING_BLEEDING
+K28.7,"Gastrojejunal ulcer, chronic without haemorrhage or perforation",PEPTIC_ULCER_EXCLUDING_BLEEDING
+K28.9,"Gastrojejunal ulcer, unspecified as acute or chronic, without haemorrhage or perforation",PEPTIC_ULCER_EXCLUDING_BLEEDING
+K29.2,Alcoholic gastritis,ALCOHOL_ABUSE
+K55.1,Chronic vascular disorders of intestine,PERIPHERAL_VASCULAR_DISORDERS
+K55.8,Other vascular disorders of intestine,PERIPHERAL_VASCULAR_DISORDERS
+K55.9,"Vascular disorder of intestine, unspecified",PERIPHERAL_VASCULAR_DISORDERS
+K70.0,Alcoholic fatty liver,LIVER_DISEASE
+K70.0,Alcoholic fatty liver,ALCOHOL_ABUSE
+K70.1,Alcoholic hepatitis,LIVER_DISEASE
+K70.2,Alcoholic fibrosis and sclerosis of liver,LIVER_DISEASE
+K70.3,Alcoholic cirrhosis of liver,ALCOHOL_ABUSE
+K70.3,Alcoholic cirrhosis of liver,LIVER_DISEASE
+K70.4,Alcoholic hepatic failure,LIVER_DISEASE
+K70.9,"Alcoholic liver disease, unspecified",ALCOHOL_ABUSE
+K70.9,"Alcoholic liver disease, unspecified",LIVER_DISEASE
+K71.1,Toxic liver disease with hepatic necrosis,LIVER_DISEASE
+K71.3,Toxic liver disease with chronic persistent hepatitis,LIVER_DISEASE
+K71.4,Toxic liver disease with chronic lobular hepatitis,LIVER_DISEASE
+K71.5,Toxic liver disease with chronic active hepatitis,LIVER_DISEASE
+K71.7,Toxic liver disease with fibrosis and cirrhosis of liver,LIVER_DISEASE
+K72.0,Acute and subacute hepatic failure,LIVER_DISEASE
+K72.1,Chronic hepatic failure,LIVER_DISEASE
+K72.9,"Hepatic failure, unspecified",LIVER_DISEASE
+K73.0,"Chronic persistent hepatitis, not elsewhere classified",LIVER_DISEASE
+K73.1,"Chronic lobular hepatitis, not elsewhere classified",LIVER_DISEASE
+K73.2,"Chronic active hepatitis, not elsewhere classified",LIVER_DISEASE
+K73.8,"Other chronic hepatitis, not elsewhere classified",LIVER_DISEASE
+K73.9,"Chronic hepatitis, unspecified",LIVER_DISEASE
+K74.0,Hepatic fibrosis,LIVER_DISEASE
+K74.1,Hepatic sclerosis,LIVER_DISEASE
+K74.2,Hepatic fibrosis with hepatic sclerosis,LIVER_DISEASE
+K74.3,Primary biliary cirrhosis,LIVER_DISEASE
+K74.4,Secondary biliary cirrhosis,LIVER_DISEASE
+K74.5,"Biliary cirrhosis, unspecified",LIVER_DISEASE
+K74.6,Other and unspecified cirrhosis of liver,LIVER_DISEASE
+K76.0,"Fatty (change of) liver, not elsewhere classified",LIVER_DISEASE
+K76.2,Central haemorrhagic necrosis of liver,LIVER_DISEASE
+K76.3,Infarction of liver,LIVER_DISEASE
+K76.4,Peliosis hepatis,LIVER_DISEASE
+K76.5,Hepatic veno-occlusive disease,LIVER_DISEASE
+K76.6,Portal hypertension,LIVER_DISEASE
+K76.7,Hepatorenal syndrome,LIVER_DISEASE
+K76.8,Other specified diseases of liver,LIVER_DISEASE
+K76.9,"Liver disease, unspecified",LIVER_DISEASE
+L94.0,Localised scleroderma [morphea],RHEUMATOID_ARTHRITIS
+L94.1,Linear scleroderma,RHEUMATOID_ARTHRITIS
+L94.3,Sclerodactyly,RHEUMATOID_ARTHRITIS
+M05.00,"Felty's syndrome, multiple sites",RHEUMATOID_ARTHRITIS
+M05.01,"Felty's syndrome, shoulder region",RHEUMATOID_ARTHRITIS
+M05.02,"Felty's syndrome, upper arm",RHEUMATOID_ARTHRITIS
+M05.03,"Felty's syndrome, forearm",RHEUMATOID_ARTHRITIS
+M05.04,"Felty's syndrome, hand",RHEUMATOID_ARTHRITIS
+M05.05,"Felty's syndrome, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M05.06,"Felty's syndrome, lower leg",RHEUMATOID_ARTHRITIS
+M05.07,"Felty's syndrome, ankle and foot",RHEUMATOID_ARTHRITIS
+M05.08,"Felty's syndrome, other site",RHEUMATOID_ARTHRITIS
+M05.09,"Felty's syndrome, site unspecified",RHEUMATOID_ARTHRITIS
+M05.20,"Rheumatoid vasculitis, multiple sites",RHEUMATOID_ARTHRITIS
+M05.21,"Rheumatoid vasculitis, shoulder region",RHEUMATOID_ARTHRITIS
+M05.22,"Rheumatoid vasculitis, upper arm",RHEUMATOID_ARTHRITIS
+M05.23,"Rheumatoid vasculitis, forearm",RHEUMATOID_ARTHRITIS
+M05.24,"Rheumatoid vasculitis, hand",RHEUMATOID_ARTHRITIS
+M05.25,"Rheumatoid vasculitis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M05.26,"Rheumatoid vasculitis, lower leg",RHEUMATOID_ARTHRITIS
+M05.27,"Rheumatoid vasculitis, ankle and foot",RHEUMATOID_ARTHRITIS
+M05.28,"Rheumatoid vasculitis, other site",RHEUMATOID_ARTHRITIS
+M05.29,"Rheumatoid vasculitis, site unspecified",RHEUMATOID_ARTHRITIS
+M05.30,"Rheumatoid arthritis with involvement of other organs and systems, multiple sites",RHEUMATOID_ARTHRITIS
+M05.31,"Rheumatoid arthritis with involvement of other organs and systems, shoulder region",RHEUMATOID_ARTHRITIS
+M05.32,"Rheumatoid arthritis with involvement of other organs and systems, upper arm",RHEUMATOID_ARTHRITIS
+M05.33,"Rheumatoid arthritis with involvement of other organs and systems, forearm",RHEUMATOID_ARTHRITIS
+M05.34,"Rheumatoid arthritis with involvement of other organs and systems, hand",RHEUMATOID_ARTHRITIS
+M05.35,"Rheumatoid arthritis with involvement of other organs and systems, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M05.36,"Rheumatoid arthritis with involvement of other organs and systems, lower leg",RHEUMATOID_ARTHRITIS
+M05.37,"Rheumatoid arthritis with involvement of other organs and systems, ankle and foot",RHEUMATOID_ARTHRITIS
+M05.38,"Rheumatoid arthritis with involvement of other organs and systems, other site",RHEUMATOID_ARTHRITIS
+M05.39,"Rheumatoid arthritis with involvement of other organs and systems, site unspecified",RHEUMATOID_ARTHRITIS
+M05.80,"Other seropositive rheumatoid arthritis, multiple sites",RHEUMATOID_ARTHRITIS
+M05.81,"Other seropositive rheumatoid arthritis, shoulder region",RHEUMATOID_ARTHRITIS
+M05.82,"Other seropositive rheumatoid arthritis, upper arm",RHEUMATOID_ARTHRITIS
+M05.83,"Other seropositive rheumatoid arthritis, forearm",RHEUMATOID_ARTHRITIS
+M05.84,"Other seropositive rheumatoid arthritis, hand",RHEUMATOID_ARTHRITIS
+M05.85,"Other seropositive rheumatoid arthritis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M05.86,"Other seropositive rheumatoid arthritis, lower leg",RHEUMATOID_ARTHRITIS
+M05.87,"Other seropositive rheumatoid arthritis, ankle and foot",RHEUMATOID_ARTHRITIS
+M05.88,"Other seropositive rheumatoid arthritis, other site",RHEUMATOID_ARTHRITIS
+M05.89,"Other seropositive rheumatoid arthritis, site unspecified",RHEUMATOID_ARTHRITIS
+M05.90,"Seropositive rheumatoid arthritis, unspecified, multiple sites",RHEUMATOID_ARTHRITIS
+M05.91,"Seropositive rheumatoid arthritis, unspecified, shoulder region",RHEUMATOID_ARTHRITIS
+M05.92,"Seropositive rheumatoid arthritis, unspecified, upper arm",RHEUMATOID_ARTHRITIS
+M05.93,"Seropositive rheumatoid arthritis, unspecified, forearm",RHEUMATOID_ARTHRITIS
+M05.94,"Seropositive rheumatoid arthritis, unspecified, hand",RHEUMATOID_ARTHRITIS
+M05.95,"Seropositive rheumatoid arthritis, unspecified, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M05.96,"Seropositive rheumatoid arthritis, unspecified, lower leg",RHEUMATOID_ARTHRITIS
+M05.97,"Seropositive rheumatoid arthritis, unspecified, ankle and foot",RHEUMATOID_ARTHRITIS
+M05.98,"Seropositive rheumatoid arthritis, unspecified, other site",RHEUMATOID_ARTHRITIS
+M05.99,"Seropositive rheumatoid arthritis, unspecified, site unspecified",RHEUMATOID_ARTHRITIS
+M06.00,"Seronegative rheumatoid arthritis, multiple sites",RHEUMATOID_ARTHRITIS
+M06.01,"Seronegative rheumatoid arthritis, shoulder region",RHEUMATOID_ARTHRITIS
+M06.02,"Seronegative rheumatoid arthritis, upper arm",RHEUMATOID_ARTHRITIS
+M06.03,"Seronegative rheumatoid arthritis, forearm",RHEUMATOID_ARTHRITIS
+M06.04,"Seronegative rheumatoid arthritis, hand",RHEUMATOID_ARTHRITIS
+M06.05,"Seronegative rheumatoid arthritis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M06.06,"Seronegative rheumatoid arthritis, lower leg",RHEUMATOID_ARTHRITIS
+M06.07,"Seronegative rheumatoid arthritis, ankle and foot",RHEUMATOID_ARTHRITIS
+M06.08,"Seronegative rheumatoid arthritis, other site",RHEUMATOID_ARTHRITIS
+M06.09,"Seronegative rheumatoid arthritis, site unspecified",RHEUMATOID_ARTHRITIS
+M06.10,"Adult-onset Still's disease, multiple sites",RHEUMATOID_ARTHRITIS
+M06.11,"Adult-onset Still's disease, shoulder arm",RHEUMATOID_ARTHRITIS
+M06.12,"Adult-onset Still's disease, upper arm",RHEUMATOID_ARTHRITIS
+M06.13,"Adult-onset Still's disease, forearm",RHEUMATOID_ARTHRITIS
+M06.14,"Adult-onset Still's disease, hand",RHEUMATOID_ARTHRITIS
+M06.15,"Adult-onset Still's disease, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M06.16,"Adult-onset Still's disease, lower leg",RHEUMATOID_ARTHRITIS
+M06.17,"Adult-onset Still's disease, ankle and foot",RHEUMATOID_ARTHRITIS
+M06.18,"Adult-onset Still's disease, other site",RHEUMATOID_ARTHRITIS
+M06.19,"Adult-onset Still's disease, site unspecified",RHEUMATOID_ARTHRITIS
+M06.20,"Rheumatoid bursitis, multiple sites",RHEUMATOID_ARTHRITIS
+M06.21,"Rheumatoid bursitis, shoulder region",RHEUMATOID_ARTHRITIS
+M06.22,"Rheumatoid bursitis, upper arm",RHEUMATOID_ARTHRITIS
+M06.23,"Rheumatoid bursitis, forearm",RHEUMATOID_ARTHRITIS
+M06.24,"Rheumatoid bursitis, hand",RHEUMATOID_ARTHRITIS
+M06.25,"Rheumatoid bursitis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M06.26,"Rheumatoid bursitis, lower leg",RHEUMATOID_ARTHRITIS
+M06.27,"Rheumatoid bursitis, ankle and foot",RHEUMATOID_ARTHRITIS
+M06.28,"Rheumatoid bursitis, other site",RHEUMATOID_ARTHRITIS
+M06.29,"Rheumatoid bursitis, site unspecified",RHEUMATOID_ARTHRITIS
+M06.30,"Rheumatoid nodule, multiple sites",RHEUMATOID_ARTHRITIS
+M06.31,"Rheumatoid nodule, shoulder region",RHEUMATOID_ARTHRITIS
+M06.32,"Rheumatoid nodule, upper arm",RHEUMATOID_ARTHRITIS
+M06.33,"Rheumatoid nodule, forearm",RHEUMATOID_ARTHRITIS
+M06.34,"Rheumatoid nodule, hand",RHEUMATOID_ARTHRITIS
+M06.35,"Rheumatoid nodule, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M06.36,"Rheumatoid nodule, lower leg",RHEUMATOID_ARTHRITIS
+M06.37,"Rheumatoid nodule, ankle and foot",RHEUMATOID_ARTHRITIS
+M06.38,"Rheumatoid nodule, other site",RHEUMATOID_ARTHRITIS
+M06.39,"Rheumatoid nodule, site unspecified",RHEUMATOID_ARTHRITIS
+M06.40,"Inflammatory polyarthropathy, multiple sites",RHEUMATOID_ARTHRITIS
+M06.41,"Inflammatory polyarthropathy, shoulder region",RHEUMATOID_ARTHRITIS
+M06.42,"Inflammatory polyarthropathy, upper arm",RHEUMATOID_ARTHRITIS
+M06.43,"Inflammatory polyarthropathy, forearm",RHEUMATOID_ARTHRITIS
+M06.44,"Inflammatory polyarthropathy, hand",RHEUMATOID_ARTHRITIS
+M06.45,"Inflammatory polyarthropathy, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M06.46,"Inflammatory polyarthropathy, lower leg",RHEUMATOID_ARTHRITIS
+M06.47,"Inflammatory polyarthropathy, ankle and foot",RHEUMATOID_ARTHRITIS
+M06.48,"Inflammatory polyarthropathy, other site",RHEUMATOID_ARTHRITIS
+M06.49,"Inflammatory polyarthropathy, site unspecified",RHEUMATOID_ARTHRITIS
+M06.80,"Other specified rheumatoid arthritis, multiple sites",RHEUMATOID_ARTHRITIS
+M06.81,"Other specified rheumatoid arthritis, shoulder region",RHEUMATOID_ARTHRITIS
+M06.82,"Other specified rheumatoid arthritis, upper arm",RHEUMATOID_ARTHRITIS
+M06.83,"Other specified rheumatoid arthritis, forearm",RHEUMATOID_ARTHRITIS
+M06.84,"Other specified rheumatoid arthritis, hand",RHEUMATOID_ARTHRITIS
+M06.85,"Other specified rheumatoid arthritis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M06.86,"Other specified rheumatoid arthritis, lower leg",RHEUMATOID_ARTHRITIS
+M06.87,"Other specified rheumatoid arthritis, ankle and foot",RHEUMATOID_ARTHRITIS
+M06.88,"Other specified rheumatoid arthritis, other site",RHEUMATOID_ARTHRITIS
+M06.89,"Other specified rheumatoid arthritis, site unspecified",RHEUMATOID_ARTHRITIS
+M06.90,"Rheumatoid arthritis, unspecified, multiple sites",RHEUMATOID_ARTHRITIS
+M06.91,"Rheumatoid arthritis, unspecified, shoulder region",RHEUMATOID_ARTHRITIS
+M06.92,"Rheumatoid arthritis, unspecified, upper arm",RHEUMATOID_ARTHRITIS
+M06.93,"Rheumatoid arthritis, unspecified, forearm",RHEUMATOID_ARTHRITIS
+M06.94,"Rheumatoid arthritis, unspecified, hand",RHEUMATOID_ARTHRITIS
+M06.95,"Rheumatoid arthritis, unspecified, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M06.96,"Rheumatoid arthritis, unspecified, lower leg",RHEUMATOID_ARTHRITIS
+M06.97,"Rheumatoid arthritis, unspecified, ankle and foot",RHEUMATOID_ARTHRITIS
+M06.98,"Rheumatoid arthritis, unspecified, other site",RHEUMATOID_ARTHRITIS
+M06.99,"Rheumatoid arthritis, unspecified, site unspecified",RHEUMATOID_ARTHRITIS
+M08.00,"Juvenile rheumatoid arthritis, multiple sites",RHEUMATOID_ARTHRITIS
+M08.01,"Juvenile rheumatoid arthritis, shoulder region",RHEUMATOID_ARTHRITIS
+M08.02,"Juvenile rheumatoid arthritis, upper arm",RHEUMATOID_ARTHRITIS
+M08.03,"Juvenile rheumatoid arthritis, forearm",RHEUMATOID_ARTHRITIS
+M08.04,"Juvenile rheumatoid arthritis, hand",RHEUMATOID_ARTHRITIS
+M08.05,"Juvenile rheumatoid arthritis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M08.06,"Juvenile rheumatoid arthritis, lower leg",RHEUMATOID_ARTHRITIS
+M08.07,"Juvenile rheumatoid arthritis, ankle and foot",RHEUMATOID_ARTHRITIS
+M08.08,"Juvenile rheumatoid arthritis, other site",RHEUMATOID_ARTHRITIS
+M08.09,"Juvenile rheumatoid arthritis, site unspecified",RHEUMATOID_ARTHRITIS
+M08.10,"Juvenile ankylosing spondylitis, multiple sites",RHEUMATOID_ARTHRITIS
+M08.11,"Juvenile ankylosing spondylitis, shoulder region",RHEUMATOID_ARTHRITIS
+M08.12,"Juvenile ankylosing spondylitis, upper arm",RHEUMATOID_ARTHRITIS
+M08.13,"Juvenile ankylosing spondylitis, forearm",RHEUMATOID_ARTHRITIS
+M08.14,"Juvenile ankylosing spondylitis, hand",RHEUMATOID_ARTHRITIS
+M08.15,"Juvenile ankylosing spondylitis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M08.16,"Juvenile ankylosing spondylitis, lower leg",RHEUMATOID_ARTHRITIS
+M08.17,"Juvenile ankylosing spondylitis, ankle and foot",RHEUMATOID_ARTHRITIS
+M08.18,"Juvenile ankylosing spondylitis, other site",RHEUMATOID_ARTHRITIS
+M08.19,"Juvenile ankylosing spondylitis, site unspecified",RHEUMATOID_ARTHRITIS
+M08.20,"Juvenile arthritis with systemic onset, multiple sites",RHEUMATOID_ARTHRITIS
+M08.21,"Juvenile arthritis with systemic onset, shoulder region",RHEUMATOID_ARTHRITIS
+M08.22,"Juvenile arthritis with systemic onset, upper arm",RHEUMATOID_ARTHRITIS
+M08.23,"Juvenile arthritis with systemic onset, forearm",RHEUMATOID_ARTHRITIS
+M08.24,"Juvenile arthritis with systemic onset, hand",RHEUMATOID_ARTHRITIS
+M08.25,"Juvenile arthritis with systemic onset, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M08.26,"Juvenile arthritis with systemic onset, lower leg",RHEUMATOID_ARTHRITIS
+M08.27,"Juvenile arthritis with systemic onset, ankle and foot",RHEUMATOID_ARTHRITIS
+M08.28,"Juvenile arthritis with systemic onset, other site",RHEUMATOID_ARTHRITIS
+M08.29,"Juvenile arthritis with systemic onset, site unspecified",RHEUMATOID_ARTHRITIS
+M08.3,Juvenile polyarthritis (seronegative),RHEUMATOID_ARTHRITIS
+M08.40,"Pauciarticular juvenile arthritis, multiple sites",RHEUMATOID_ARTHRITIS
+M08.41,"Pauciarticular juvenile arthritis, shoulder region",RHEUMATOID_ARTHRITIS
+M08.42,"Pauciarticular juvenile arthritis, upper arm",RHEUMATOID_ARTHRITIS
+M08.43,"Pauciarticular juvenile arthritis, forearm",RHEUMATOID_ARTHRITIS
+M08.44,"Pauciarticular juvenile arthritis, hand",RHEUMATOID_ARTHRITIS
+M08.45,"Pauciarticular juvenile arthritis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M08.46,"Pauciarticular juvenile arthritis, lower leg",RHEUMATOID_ARTHRITIS
+M08.47,"Pauciarticular juvenile arthritis, ankle and foot",RHEUMATOID_ARTHRITIS
+M08.48,"Pauciarticular juvenile arthritis, other site",RHEUMATOID_ARTHRITIS
+M08.49,"Pauciarticular juvenile arthritis, site unspecified",RHEUMATOID_ARTHRITIS
+M08.80,"Other juvenile arthritis, multiple sites",RHEUMATOID_ARTHRITIS
+M08.81,"Other juvenile arthritis, shoulder region",RHEUMATOID_ARTHRITIS
+M08.82,"Other juvenile arthritis, upper arm",RHEUMATOID_ARTHRITIS
+M08.83,"Other juvenile arthritis, forearm",RHEUMATOID_ARTHRITIS
+M08.84,"Other juvenile arthritis, hand",RHEUMATOID_ARTHRITIS
+M08.85,"Other juvenile arthritis, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M08.86,"Other juvenile arthritis, lower leg",RHEUMATOID_ARTHRITIS
+M08.87,"Other juvenile arthritis, ankle and foot",RHEUMATOID_ARTHRITIS
+M08.88,"Other juvenile arthritis, other site",RHEUMATOID_ARTHRITIS
+M08.89,"Other juvenile arthritis, site unspecified",RHEUMATOID_ARTHRITIS
+M08.90,"Juvenile arthritis, unspecified, multiple sites",RHEUMATOID_ARTHRITIS
+M08.91,"Juvenile arthritis, unspecified, shoulder region",RHEUMATOID_ARTHRITIS
+M08.92,"Juvenile arthritis, unspecified, upper arm",RHEUMATOID_ARTHRITIS
+M08.93,"Juvenile arthritis, unspecified, forearm",RHEUMATOID_ARTHRITIS
+M08.94,"Juvenile arthritis, unspecified, hand",RHEUMATOID_ARTHRITIS
+M08.95,"Juvenile arthritis, unspecified, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M08.96,"Juvenile arthritis, unspecified, lower leg",RHEUMATOID_ARTHRITIS
+M08.97,"Juvenile arthritis, unspecified, ankle and foot",RHEUMATOID_ARTHRITIS
+M08.98,"Juvenile arthritis, unspecified, other site",RHEUMATOID_ARTHRITIS
+M08.99,"Juvenile arthritis, unspecified, site unspecified",RHEUMATOID_ARTHRITIS
+M12.00,"Chronic postrheumatic arthropathy [Jaccoud], multiple sites",RHEUMATOID_ARTHRITIS
+M12.01,"Chronic postrheumatic arthropathy [Jaccoud], shoulder region",RHEUMATOID_ARTHRITIS
+M12.02,"Chronic postrheumatic arthropathy [Jaccoud], upper arm",RHEUMATOID_ARTHRITIS
+M12.03,"Chronic postrheumatic arthropathy [Jaccoud], forearm",RHEUMATOID_ARTHRITIS
+M12.04,"Chronic postrheumatic arthropathy [Jaccoud], hand",RHEUMATOID_ARTHRITIS
+M12.05,"Chronic postrheumatic arthropathy [Jaccoud], pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M12.06,"Chronic postrheumatic arthropathy [Jaccoud], lower leg",RHEUMATOID_ARTHRITIS
+M12.07,"Chronic postrheumatic arthropathy [Jaccoud], ankle and foot",RHEUMATOID_ARTHRITIS
+M12.08,"Chronic postrheumatic arthropathy [Jaccoud], other site",RHEUMATOID_ARTHRITIS
+M12.09,"Chronic postrheumatic arthropathy [Jaccoud], site unspecified",RHEUMATOID_ARTHRITIS
+M12.30,"Palindromic rheumatism, multiple sites",RHEUMATOID_ARTHRITIS
+M12.31,"Palindromic rheumatism, shoulder region",RHEUMATOID_ARTHRITIS
+M12.32,"Palindromic rheumatism, upper arm",RHEUMATOID_ARTHRITIS
+M12.33,"Palindromic rheumatism, forearm",RHEUMATOID_ARTHRITIS
+M12.34,"Palindromic rheumatism, hand",RHEUMATOID_ARTHRITIS
+M12.35,"Palindromic rheumatism, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M12.36,"Palindromic rheumatism, lower leg",RHEUMATOID_ARTHRITIS
+M12.37,"Palindromic rheumatism, ankle and foot",RHEUMATOID_ARTHRITIS
+M12.38,"Palindromic rheumatism, other site",RHEUMATOID_ARTHRITIS
+M12.39,"Palindromic rheumatism, site unspecified",RHEUMATOID_ARTHRITIS
+M30.0,Polyarteritis nodosa,RHEUMATOID_ARTHRITIS
+M30.1,Polyarteritis with lung involvement [Churg-Strauss],RHEUMATOID_ARTHRITIS
+M30.2,Juvenile polyarteritis,RHEUMATOID_ARTHRITIS
+M30.3,Mucocutaneous lymph node syndrome [Kawasaki],RHEUMATOID_ARTHRITIS
+M30.8,Other conditions related to polyarteritis nodosa,RHEUMATOID_ARTHRITIS
+M31.0,Hypersensitivity angiitis,RHEUMATOID_ARTHRITIS
+M31.1,Thrombotic microangiopathy,RHEUMATOID_ARTHRITIS
+M31.2,Lethal midline granuloma,RHEUMATOID_ARTHRITIS
+M31.3,Granulomatosis with polyangiitis,RHEUMATOID_ARTHRITIS
+M32.0,Drug-induced systemic lupus erythematosus,RHEUMATOID_ARTHRITIS
+M32.1,Systemic lupus erythematosus with organ or system involvement,RHEUMATOID_ARTHRITIS
+M32.8,Other forms of systemic lupus erythematosus,RHEUMATOID_ARTHRITIS
+M32.9,"Systemic lupus erythematosus, unspecified",RHEUMATOID_ARTHRITIS
+M33.0,Juvenile dermatomyositis,RHEUMATOID_ARTHRITIS
+M33.1,Other dermatomyositis,RHEUMATOID_ARTHRITIS
+M33.2,Polymyositis,RHEUMATOID_ARTHRITIS
+M33.9,"Dermatopolymyositis, unspecified",RHEUMATOID_ARTHRITIS
+M34.0,Progressive systemic sclerosis,RHEUMATOID_ARTHRITIS
+M34.1,CR(E)ST syndrome,RHEUMATOID_ARTHRITIS
+M34.2,Systemic sclerosis induced by drugs and chemicals,RHEUMATOID_ARTHRITIS
+M34.8,Other forms of systemic sclerosis,RHEUMATOID_ARTHRITIS
+M34.9,"Systemic sclerosis, unspecified",RHEUMATOID_ARTHRITIS
+M35.0,Sicca syndrome [Sjogren],RHEUMATOID_ARTHRITIS
+M35.1,Other overlap syndromes,RHEUMATOID_ARTHRITIS
+M35.2,Behcet's disease,RHEUMATOID_ARTHRITIS
+M35.3,Polymyalgia rheumatica,RHEUMATOID_ARTHRITIS
+M35.4,Diffuse (eosinophilic) fasciitis,RHEUMATOID_ARTHRITIS
+M35.5,Multifocal fibrosclerosis,RHEUMATOID_ARTHRITIS
+M35.6,Relapsing panniculitis [Weber-Christian],RHEUMATOID_ARTHRITIS
+M35.7,Hypermobility syndrome,RHEUMATOID_ARTHRITIS
+M35.8,Other specified systemic involvement of connective tissue,RHEUMATOID_ARTHRITIS
+M35.9,"Systemic involvement of connective tissue, unspecified",RHEUMATOID_ARTHRITIS
+M45.00,"Ankylosing spondylitis, multiple sites in spine",RHEUMATOID_ARTHRITIS
+M45.01,"Ankylosing spondylitis, occipito-atlanto-axial region",RHEUMATOID_ARTHRITIS
+M45.02,"Ankylosing spondylitis, cervical region",RHEUMATOID_ARTHRITIS
+M45.03,"Ankylosing spondylitis, cervicothoracic region",RHEUMATOID_ARTHRITIS
+M45.04,"Ankylosing spondylitis, thoracic region",RHEUMATOID_ARTHRITIS
+M45.05,"Ankylosing spondylitis, thoracolumbar region",RHEUMATOID_ARTHRITIS
+M45.06,"Ankylosing spondylitis, lumbar region",RHEUMATOID_ARTHRITIS
+M45.07,"Ankylosing spondylitis, lumbosacral region",RHEUMATOID_ARTHRITIS
+M45.08,"Ankylosing spondylitis, sacral and sacrococcygeal region",RHEUMATOID_ARTHRITIS
+M45.09,"Ankylosing spondylitis, site unspecified",RHEUMATOID_ARTHRITIS
+M46.1,"Sacroiliitis, not elsewhere classified",RHEUMATOID_ARTHRITIS
+M46.80,"Other specified inflammatory spondylopathies, multiple sites in spine",RHEUMATOID_ARTHRITIS
+M46.81,"Other specified inflammatory spondylopathies, occipito-atlanto-axial region",RHEUMATOID_ARTHRITIS
+M46.82,"Other specified inflammatory spondylopathies, cervical region",RHEUMATOID_ARTHRITIS
+M46.83,"Other specified inflammatory spondylopathies, cervicothoracic region",RHEUMATOID_ARTHRITIS
+M46.84,"Other specified inflammatory spondylopathies, thoracic region",RHEUMATOID_ARTHRITIS
+M46.85,"Other specified inflammatory spondylopathies, thoracolumbar region",RHEUMATOID_ARTHRITIS
+M46.86,"Other specified inflammatory spondylopathies, lumbar region",RHEUMATOID_ARTHRITIS
+M46.87,"Other specified inflammatory spondylopathies, lumbosacral region",RHEUMATOID_ARTHRITIS
+M46.88,"Other specified inflammatory spondylopathies, sacral and sacrococcygeal region",RHEUMATOID_ARTHRITIS
+M46.89,"Other specified inflammatory spondylopathies, site unspecified",RHEUMATOID_ARTHRITIS
+M46.90,"Unspecified inflammatory spondylopathy, multiple sites in spine",RHEUMATOID_ARTHRITIS
+M46.91,"Unspecified inflammatory spondylopathy, occipito-atlanto-axial region",RHEUMATOID_ARTHRITIS
+M46.92,"Unspecified inflammatory spondylopathy, cervical region",RHEUMATOID_ARTHRITIS
+M46.93,"Unspecified inflammatory spondylopathy, cervicothoracic region",RHEUMATOID_ARTHRITIS
+M46.94,"Unspecified inflammatory spondylopathy, thoracic region",RHEUMATOID_ARTHRITIS
+M46.95,"Unspecified inflammatory spondylopathy, thoracolumbar region",RHEUMATOID_ARTHRITIS
+M46.96,"Unspecified inflammatory spondylopathy, lumbar region",RHEUMATOID_ARTHRITIS
+M46.97,"Unspecified inflammatory spondylopathy, lumbosacral region",RHEUMATOID_ARTHRITIS
+M46.98,"Unspecified inflammatory spondylopathy, sacral and sacrococcygeal region",RHEUMATOID_ARTHRITIS
+M46.99,"Unspecified inflammatory spondylopathy, site unspecified",RHEUMATOID_ARTHRITIS
+N18.0,End-stage renal disease,RENAL_FAILURE
+N18.8,Other chronic renal failure,RENAL_FAILURE
+N18.9,"Chronic kidney disease, unspecified",RENAL_FAILURE
+N18.90,Unspecified chronic renal failure,RENAL_FAILURE
+N18.91,Chronic renal impairment,RENAL_FAILURE
+N19.,Unspecified kidney failure,RENAL_FAILURE
+N25.0,Renal osteodystrophy,RENAL_FAILURE
+P29.0,Neonatal cardiac failure,CHF
+Q23.0,Congenital stenosis and atresia of aortic valve,VALVULAR_DISEASE
+Q23.1,Congenital insufficiency of aortic valve,VALVULAR_DISEASE
+Q23.2,Congenital mitral stenosis and atresia,VALVULAR_DISEASE
+Q23.3,Congenital mitral insufficiency,VALVULAR_DISEASE
+R47.0,Dysphasia and aphasia,OTHER_NEUROLOGICAL_DISORDERS
+R56.0,Febrile convulsions,OTHER_NEUROLOGICAL_DISORDERS
+R56.8,Other and unspecified convulsions,OTHER_NEUROLOGICAL_DISORDERS
+R63.4,Abnormal weight loss,WEIGHT_LOSS
+R64.,Cachexia,WEIGHT_LOSS
+T51.1,Toxic effect of methanol,ALCOHOL_ABUSE
+T51.3,Toxic effect of fusel oil,ALCOHOL_ABUSE
+T51.9,"Toxic effect of alcohol, unspecified",ALCOHOL_ABUSE
+Z45.0,Adjustment and management of cardiac device,CARDIAC_ARRHYTHMIAS
+Z49.0,Preparatory care for dialysis,RENAL_FAILURE
+Z49.1,Extracorporeal dialysis,RENAL_FAILURE
+Z49.2,Other dialysis,RENAL_FAILURE
+Z50.2,Alcohol rehabilitation,ALCOHOL_ABUSE
+Z71.4,Counselling and surveillance for alcohol use disorder,ALCOHOL_ABUSE
+Z71.5,Counselling and surveillance for drug use disorder,DRUG_ABUSE
+Z72.1,Alcohol use,ALCOHOL_ABUSE
+Z72.2,Drug use,DRUG_ABUSE
+Z94.0,Kidney transplant status,RENAL_FAILURE
+Z94.4,Liver transplant status,LIVER_DISEASE
+Z95.0,Presence of cardiac device,CARDIAC_ARRHYTHMIAS
+Z95.2,Presence of prosthetic heart valve,VALVULAR_DISEASE
+Z95.3,Presence of xenogenic heart valve,VALVULAR_DISEASE
+Z95.4,Presence of other heart-valve replacement,VALVULAR_DISEASE
+Z95.8,Presence of other cardiac and vascular implants and grafts,PERIPHERAL_VASCULAR_DISORDERS
+Z95.9,"Presence of cardiac and vascular implant and graft, unspecified",PERIPHERAL_VASCULAR_DISORDERS
+Z99.2,Dependence on kidney dialysis,RENAL_FAILURE
+C97.,Malignant neoplasms of independent (primary) multiple sites,SOLID_TUMOR_WITHOUT_METASTASIS
+E10.00,"Insulin-dependent diabetes mellitus with coma, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E10.01,Type 1 diabetes mellitus with hyperosmolarity without nonketotic hyperglycaemic-hyperosmolar coma (NKHHC),DIABETES_UNCOMPLICATED
+E10.10,"Insulin-dependent diabetes mellitus with ketoacidosis, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E10.60,"Insulin-dependent diabetes mellitus with other specified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E10.70,"Insulin-dependent diabetes mellitus with multiple complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E10.80,"Insulin-dependent diabetes mellitus with unspecified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E10.81,"Insulin-dependent diabetes mellitus with unspecified complications, stated as uncontrolled",DIABETES_COMPLICATED
+E10.90,"Insulin-dependent diabetes mellitus without complications, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E10.91,"Insulin-dependent diabetes mellitus without complications, stated as uncontrolled",DIABETES_UNCOMPLICATED
+E11.00,"Non-insulin-dependent diabetes mellitus with coma, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E11.10,"Non-insulin-dependent diabetes mellitus with ketoacidosis, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E11.60,"Non-insulin-dependent diabetes mellitus with other specified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E11.70,"Non-insulin-dependent diabetes mellitus with multiple complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E11.80,"Non-insulin-dependent diabetes mellitus with unspecified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E11.81,"Non-insulin-dependent diabetes mellitus with unspecified complications, stated as uncontrolled",DIABETES_COMPLICATED
+E11.90,"Non-insulin-dependent diabetes mellitus without complications, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E11.91,"Non-insulin-dependent diabetes mellitus without complications, stated as uncontrolled",DIABETES_UNCOMPLICATED
+E12.00,"Malnutrition-related diabetes mellitus with coma, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E12.01,"Malnutrition-related diabetes mellitus with coma, stated as uncontrolled",DIABETES_UNCOMPLICATED
+E12.10,"Malnutrition-related diabetes mellitus with ketoacidosis, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E12.11,"Malnutrition-related diabetes mellitus with ketoacidosis, stated as uncontrolled",DIABETES_UNCOMPLICATED
+E12.20,"Malnutrition-related diabetes mellitus with renal complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E12.21,"Malnutrition-related diabetes mellitus with renal complications, stated as uncontrolled",DIABETES_COMPLICATED
+E12.30,"Malnutrition-related diabetes mellitus with ophthalmic complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E12.31,"Malnutrition-related diabetes mellitus with ophthalmic complications, stated as uncontrolled",DIABETES_COMPLICATED
+E12.40,"Malnutrition-related diabetes mellitus with neurological complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E12.41,"Malnutrition-related diabetes mellitus with neurological complications, stated as uncontrolled",DIABETES_COMPLICATED
+E12.50,"Malnutrition-related diabetes mellitus with peripheral circulatory complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E12.51,"Malnutrition-related diabetes mellitus with peripheral circulatory complications, stated as uncontrolled",DIABETES_COMPLICATED
+E12.60,"Malnutrition-related diabetes mellitus with other specified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E12.61,"Malnutrition-related diabetes mellitus with other specified complications, stated as uncontrolled",DIABETES_COMPLICATED
+E12.70,"Malnutrition-related diabetes mellitus with multiple complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E12.71,"Malnutrition-related diabetes mellitus with multiple complications, stated as uncontrolled",DIABETES_COMPLICATED
+E12.80,"Malnutrition-related diabetes mellitus with unspecified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E12.81,"Malnutrition-related diabetes mellitus with unspecified complications, stated as uncontrolled",DIABETES_COMPLICATED
+E12.90,"Malnutrition-related diabetes mellitus without complications, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E12.91,"Malnutrition-related diabetes mellitus without complications, stated as uncontrolled",DIABETES_UNCOMPLICATED
+E13.00,"Other specified diabetes mellitus with coma, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E13.10,"Other specified diabetes mellitus with ketoacidosis, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E13.60,"Other specified diabetes mellitus with other specified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E13.70,"Other specified diabetes mellitus with multiple complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E13.80,"Other specified diabetes mellitus with unspecified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E13.81,"Other specified diabetes mellitus with unspecified complications, stated as uncontrolled",DIABETES_COMPLICATED
+E13.90,"Other specified diabetes mellitus without complications, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E13.91,"Other specified diabetes mellitus without complications, stated as uncontrolled",DIABETES_UNCOMPLICATED
+E14.00,"Unspecified diabetes mellitus with coma, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E14.10,"Unspecified diabetes mellitus with ketoacidosis, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E14.60,"Unspecified diabetes mellitus with other specified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E14.70,"Unspecified diabetes mellitus with multiple complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E14.80,"Unspecified diabetes mellitus with unspecified complications, not stated as uncontrolled",DIABETES_COMPLICATED
+E14.81,"Unspecified diabetes mellitus with unspecified complications, stated as uncontrolled",DIABETES_COMPLICATED
+E14.90,"Unspecified diabetes mellitus without complications, not stated as uncontrolled",DIABETES_UNCOMPLICATED
+E14.91,"Unspecified diabetes mellitus without complications, stated as uncontrolled",DIABETES_UNCOMPLICATED
+G31.81,Mitochondrial cytopathy,OTHER_NEUROLOGICAL_DISORDERS
+G31.88,Other specified degenerative diseases of nervous system,OTHER_NEUROLOGICAL_DISORDERS
+I26.8,Iatrogenic pulmonary embolism,PULMONARY_CIRCULATION_DISORDERS
+A52.0,Cardiovascular syphilis (I98.0*),VALVULAR_DISEASE
+C81.,Hodgkin lymphoma,LYMPHOMA
+D52.1,Drug-induced folate deficiency anaemia,DEFICIENCY_ANEMIAS
+E10.40,Type 1 diabetes mellitus with unspecified neuropathy,DIABETES_COMPLICATED
+E10.61,Type 1 diabetes mellitus with specified diabetic musculoskeletal and connective tissue complication,DIABETES_COMPLICATED
+E10.62,Type 1 diabetes mellitus with specified skin and subcutaneous tissue complication,DIABETES_COMPLICATED
+E10.63,Type 1 diabetes mellitus with specified periodontal complication,DIABETES_COMPLICATED
+E11.40,Type 2 diabetes mellitus with unspecified neuropathy,DIABETES_COMPLICATED
+E11.61,Type 2 diabetes mellitus with specified diabetic musculoskeletal and connective tissue complication,DIABETES_COMPLICATED
+E11.62,Type 2 diabetes mellitus with specified skin and subcutaneous tissue complication,DIABETES_COMPLICATED
+E11.63,Type 2 diabetes mellitus with specified periodontal complication,DIABETES_COMPLICATED
+E13.01,"Other specified diabetes mellitus with hyperosmolarity, without nonketotic hyperglycaemic-hyperosmolar coma [NKHHC]",DIABETES_UNCOMPLICATED
+E13.11,"Other specified diabetes mellitus with ketoacidosis, without coma",DIABETES_UNCOMPLICATED
+E13.21,Other specified diabetes mellitus with incipient diabetic nephropathy,DIABETES_COMPLICATED
+E13.31,Other specified diabetes mellitus with background retinopathy,DIABETES_COMPLICATED
+E13.40,Other specified diabetes mellitus with unspecified neuropathy,DIABETES_COMPLICATED
+E13.41,Other specified diabetes mellitus with diabetic mononeuropathy,DIABETES_COMPLICATED
+E13.51,"Other specified diabetes mellitus with peripheral angiopathy, without gangrene",DIABETES_COMPLICATED
+E13.61,Other specified diabetes mellitus with specified diabetic musculoskeletal and connective tissue complication,DIABETES_COMPLICATED
+E13.62,Other specified diabetes mellitus with specified skin and subcutaneous tissue complication,DIABETES_COMPLICATED
+E13.63,Other specified diabetes mellitus with specified periodontal complication,DIABETES_COMPLICATED
+E13.71,Other specified diabetes mellitus with multiple microvascular and other specified nonvascular complications,DIABETES_COMPLICATED
+E14.01,"Unspecified diabetes mellitus with hyperosmolarity, without nonketotic hyperglycaemic-hyperosmolar coma [NKHHC]",DIABETES_UNCOMPLICATED
+E14.11,"Unspecified diabetes mellitus with ketoacidosis, without coma",DIABETES_UNCOMPLICATED
+E14.21,Unspecified diabetes mellitus with incipient diabetic nephropathy,DIABETES_COMPLICATED
+E14.31,Unspecified diabetes mellitus with background retinopathy,DIABETES_COMPLICATED
+E14.40,Unspecified diabetes mellitus with unspecified neuropathy,DIABETES_COMPLICATED
+E14.41,Unspecified diabetes mellitus with diabetic mononeuropathy,DIABETES_COMPLICATED
+E14.51,"Unspecified diabetes mellitus with peripheral angiopathy, without gangrene",DIABETES_COMPLICATED
+E14.61,Unspecified diabetes mellitus with specified diabetic musculoskeletal and connective tissue complication,DIABETES_COMPLICATED
+E14.62,Unspecified diabetes mellitus with specified skin and subcutaneous tissue complication,DIABETES_COMPLICATED
+E14.63,Unspecified diabetes mellitus with specified periodontal complication,DIABETES_COMPLICATED
+E14.71,Unspecified diabetes mellitus with multiple microvascular and other specified nonvascular complications,DIABETES_COMPLICATED
+F32.0,Mild depressive episode,DEPRESSION
+F32.1,Moderate depressive episode,DEPRESSION
+F32.2,Severe depressive episode without psychotic symptoms,DEPRESSION
+F32.3,Severe depressive episode with psychotic symptoms,DEPRESSION
+F32.8,Other depressive episodes,DEPRESSION
+F32.9,"Depressive episode, unspecified",DEPRESSION
+G40.0,Localisation-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localised onset,OTHER_NEUROLOGICAL_DISORDERS
+G40.1,Localisation-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,OTHER_NEUROLOGICAL_DISORDERS
+G40.2,Localisation-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures,OTHER_NEUROLOGICAL_DISORDERS
+G40.3,Generalised idiopathic epilepsy and epileptic syndromes,OTHER_NEUROLOGICAL_DISORDERS
+G40.4,Other generalised epilepsy and epileptic syndromes,OTHER_NEUROLOGICAL_DISORDERS
+G40.5,Special epileptic syndromes,OTHER_NEUROLOGICAL_DISORDERS
+G40.6,"Grand mal seizures, unspecified (with or without petit mal)",OTHER_NEUROLOGICAL_DISORDERS
+G40.7,"Petit mal, unspecified, without grand mal seizures",OTHER_NEUROLOGICAL_DISORDERS
+G40.8,Other epilepsy,OTHER_NEUROLOGICAL_DISORDERS
+G40.9,"Epilepsy, unspecified",OTHER_NEUROLOGICAL_DISORDERS
+M05.1,Rheumatoid lung disease,RHEUMATOID_ARTHRITIS
+M05.10,"Rheumatoid lung disease, multiple sites",RHEUMATOID_ARTHRITIS
+M05.11,"Rheumatoid lung disease, shoulder region",RHEUMATOID_ARTHRITIS
+M05.12,"Rheumatoid lung disease, upper arm",RHEUMATOID_ARTHRITIS
+M05.13,"Rheumatoid lung disease, forearm",RHEUMATOID_ARTHRITIS
+M05.14,"Rheumatoid lung disease, hand",RHEUMATOID_ARTHRITIS
+M05.15,"Rheumatoid lung disease, pelvic region and thigh",RHEUMATOID_ARTHRITIS
+M05.16,"Rheumatoid lung disease, lower leg",RHEUMATOID_ARTHRITIS
+M05.17,"Rheumatoid lung disease, ankle and foot",RHEUMATOID_ARTHRITIS
+M05.18,"Rheumatoid lung disease, other site",RHEUMATOID_ARTHRITIS
+M05.19,"Rheumatoid lung disease, site unspecified",RHEUMATOID_ARTHRITIS
+F23.00,"Acute polymorphic psychotic disorder without symptoms of schizophrenia, without mention of associated acute stress",PSYCHOSES
+F23.01,"Acute polymorphic psychotic disorder without symptoms of schizophrenia, with mention of associated acute stress",PSYCHOSES
+F23.10,Acute polymorphic psychotic disorder with symptoms of schizophrenia without mention of associated acute stress,PSYCHOSES
+F23.11,Acute polymorphic psychotic disorder with symptoms of schizophrenia with mention of associated acute stress,PSYCHOSES
+F23.20,Acute schizophrenia-like psychotic disorder without mention of associated acute stress,PSYCHOSES
+F23.21,Acute schizophrenia-like psychotic disorder with mention of associated acute stress,PSYCHOSES
+F23.30,Other acute predominately delusional psychotic disorders without mention of associated acute stress,PSYCHOSES
+F23.31,Other acute predominately delusional psychotic disorders with mention of associated acute stress,PSYCHOSES
+F23.80,Other acute and transient psychotic disorders without mention of associated acute stress,PSYCHOSES
+F23.81,Other acute and transient psychotic disorders with mention of associated acute stress,PSYCHOSES
+F23.90,"Acute and transient psychotic disorder, unspecified, without mention of associated acute stress",PSYCHOSES
+F23.91,"Acute and transient psychotic disorder, unspecified, with mention of associated acute stress",PSYCHOSES
+Q23.01,Congenital stenosis of aortic valve,VALVULAR_DISEASE
+Q23.02,Congenital atresia of aortic valve,VALVULAR_DISEASE
+Q23.21,Congenital mitral stenosis,VALVULAR_DISEASE
+Q23.22,Congenital mitral atresia,VALVULAR_DISEASE
+D68.5,Primary thrombophilia,COAGULOPATHY
+D68.6,Other thrombophilia,COAGULOPATHY
+E10.02,Type 1 diabetes mellitus with hyperosmolarity with coma,DIABETES_UNCOMPLICATED
+F15.00,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication, unspecified stimulants",DRUG_ABUSE
+F15.01,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication, methylamphetamine",DRUG_ABUSE
+F15.09,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication, other specified stimulants",DRUG_ABUSE
+F15.10,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use, unspecified stimulants",DRUG_ABUSE
+F15.11,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use, methylamphetamine",DRUG_ABUSE
+F15.19,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use, other specified stimulants",DRUG_ABUSE
+F15.20,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome, unspecified stimulants",DRUG_ABUSE
+F15.21,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome, methylamphetamine",DRUG_ABUSE
+F15.29,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome, other specified stimulants",DRUG_ABUSE
+F15.30,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state, unspecified stimulants",DRUG_ABUSE
+F15.31,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state, methylamphetamine",DRUG_ABUSE
+F15.39,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state, other specified stimulants",DRUG_ABUSE
+F15.40,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium, unspecified stimulants",DRUG_ABUSE
+F15.41,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium, methylamphetamine",DRUG_ABUSE
+F15.49,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium, other specified stimulants",DRUG_ABUSE
+F15.50,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder, unspecified stimulants",DRUG_ABUSE
+F15.51,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder, methylamphetamine",DRUG_ABUSE
+F15.59,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder, other specified stimulants",DRUG_ABUSE
+F15.60,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome, unspecified stimulants",DRUG_ABUSE
+F15.61,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome, methylamphetamine",DRUG_ABUSE
+F15.69,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome, other specified stimulants",DRUG_ABUSE
+F15.70,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder, unspecified stimulants",DRUG_ABUSE
+F15.71,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder, methylamphetamine",DRUG_ABUSE
+F15.79,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder, other specified stimulants",DRUG_ABUSE
+F15.80,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders, unspecified stimulants",DRUG_ABUSE
+F15.81,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders, methylamphetamine",DRUG_ABUSE
+F15.89,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders, other specified stimulants",DRUG_ABUSE
+F15.90,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder, unspecified stimulants",DRUG_ABUSE
+F15.91,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder, methylamphetamine",DRUG_ABUSE
+F15.99,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder, other specified stimulants",DRUG_ABUSE
+G21.4,Vascular parkinsonism,OTHER_NEUROLOGICAL_DISORDERS
+N18.1,"Chronic kidney disease, stage 1",RENAL_FAILURE
+N18.2,"Chronic kidney disease, stage 2",RENAL_FAILURE
+N18.3,"Chronic kidney disease, stage 3",RENAL_FAILURE
+N18.4,"Chronic kidney disease, stage 4",RENAL_FAILURE
+N18.5,"Chronic kidney disease, stage 5",RENAL_FAILURE
+C79.9,"Secondary malignant neoplasm, unspecified site",METASTATIC_CANCER
+C80.0,"Malignant neoplasm, primary site unknown, so stated",METASTATIC_CANCER
+C80.9,"Malignant neoplasm, primary site unspecified",METASTATIC_CANCER
+C81.4,Lymphocyte-rich (classical) Hodgkin lymphoma,LYMPHOMA
+C82.3,Follicular lymphoma grade 3a,LYMPHOMA
+C82.4,Follicular lymphoma grade 3b,LYMPHOMA
+C82.5,Diffuse follicle centre lymphoma,LYMPHOMA
+C82.6,Cutaneous follicle centre lymphoma,LYMPHOMA
+C84.6,"Anaplastic large cell lymphoma, ALK-positive",LYMPHOMA
+C84.7,"Anaplastic large cell lymphoma, ALK-negative",LYMPHOMA
+C84.8,"Cutaneous T-cell lymphoma, unspecified",LYMPHOMA
+C84.9,"Mature T/NK-cell lymphoma, unspecified",LYMPHOMA
+C85.2,Mediastinal (thymic) large B-cell lymphoma,LYMPHOMA
+C88.40,"Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma], without mention of remission",LYMPHOMA
+C88.41,"Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma], in remission",LYMPHOMA
+C96.4,Sarcoma of dendritic cells (accessory cells),LYMPHOMA
+C96.5,Multifocal and unisystemic Langerhans-cell histiocytosis,LYMPHOMA
+C96.6,Unifocal Langerhans-cell histiocytosis,LYMPHOMA
+C96.8,Histiocytic sarcoma,LYMPHOMA
+F13.00,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.01,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication, gamma hydroxybutyrate",DRUG_ABUSE
+F13.09,"Mental and behavioural disorders due to use of sedatives or hypnotics, acute intoxication, other specified sedative or hypnotic",DRUG_ABUSE
+F13.10,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.11,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use, gamma hydroxybutyrate",DRUG_ABUSE
+F13.19,"Mental and behavioural disorders due to use of sedatives or hypnotics, harmful use, other specified sedative or hypnotic",DRUG_ABUSE
+F13.20,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.21,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome, gamma hydroxybutyrate",DRUG_ABUSE
+F13.29,"Mental and behavioural disorders due to use of sedatives or hypnotics, dependence syndrome, other specified sedative or hypnotic",DRUG_ABUSE
+F13.30,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.31,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state, gamma hydroxybutyrate",DRUG_ABUSE
+F13.39,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state, other specified sedative or hypnotic",DRUG_ABUSE
+F13.40,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.41,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium, gamma hydroxybutyrate",DRUG_ABUSE
+F13.49,"Mental and behavioural disorders due to use of sedatives or hypnotics, withdrawal state with delirium, other specified sedative or hypnotic",DRUG_ABUSE
+F13.50,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.51,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder, gamma hydroxybutyrate",DRUG_ABUSE
+F13.59,"Mental and behavioural disorders due to use of sedatives or hypnotics, psychotic disorder, other specified sedative or hypnotic",DRUG_ABUSE
+F13.60,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.61,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome, gamma hydroxybutyrate",DRUG_ABUSE
+F13.69,"Mental and behavioural disorders due to use of sedatives or hypnotics, amnesic syndrome, other specified sedative or hypnotic",DRUG_ABUSE
+F13.70,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.71,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder, gamma hydroxybutyrate",DRUG_ABUSE
+F13.79,"Mental and behavioural disorders due to use of sedatives or hypnotics, residual and late-onset psychotic disorder, other specified sedative or hypnotic",DRUG_ABUSE
+F13.80,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.81,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders, gamma hydroxybutyrate",DRUG_ABUSE
+F13.89,"Mental and behavioural disorders due to use of sedatives or hypnotics, other mental and behavioural disorders, other specified sedative or hypnotic",DRUG_ABUSE
+F13.90,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder, unspecified sedative or hypnotic",DRUG_ABUSE
+F13.91,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder, gamma hydroxybutyrate",DRUG_ABUSE
+F13.99,"Mental and behavioural disorders due to use of sedatives or hypnotics, unspecified mental and behavioural disorder, other specified sedative or hypnotic",DRUG_ABUSE
+F15.02,"Mental and behavioural disorders due to use of other stimulants, including caffeine, acute intoxication, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.12,"Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.22,"Mental and behavioural disorders due to use of other stimulants, including caffeine, dependence syndrome, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.32,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.42,"Mental and behavioural disorders due to use of other stimulants, including caffeine, withdrawal state with delirium, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.52,"Mental and behavioural disorders due to use of other stimulants, including caffeine, psychotic disorder, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.62,"Mental and behavioural disorders due to use of other stimulants, including caffeine, amnesic syndrome, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.72,"Mental and behavioural disorders due to use of other stimulants, including caffeine, residual and late-onset psychotic disorder, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.82,"Mental and behavioural disorders due to use of other stimulants, including caffeine, other mental and behavioural disorders, methylenedioxy methamphetamine",DRUG_ABUSE
+F15.92,"Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder, methylenedioxy methamphetamine",DRUG_ABUSE
+F16.00,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication, unspecified hallucinogen",DRUG_ABUSE
+F16.01,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication, ketamine",DRUG_ABUSE
+F16.09,"Mental and behavioural disorders due to use of hallucinogens, acute intoxication, other specified hallucinogen",DRUG_ABUSE
+F16.10,"Mental and behavioural disorders due to use of hallucinogens, harmful use, unspecified hallucinogen",DRUG_ABUSE
+F16.11,"Mental and behavioural disorders due to use of hallucinogens, harmful use, ketamine",DRUG_ABUSE
+F16.19,"Mental and behavioural disorders due to use of hallucinogens, harmful use, other specified hallucinogen",DRUG_ABUSE
+F16.20,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome, unspecified hallucinogen",DRUG_ABUSE
+F16.21,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome, ketamine",DRUG_ABUSE
+F16.29,"Mental and behavioural disorders due to use of hallucinogens, dependence syndrome, other specified hallucinogen",DRUG_ABUSE
+F16.30,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state, unspecified hallucinogen",DRUG_ABUSE
+F16.31,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state, ketamine",DRUG_ABUSE
+F16.39,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state, other specified hallucinogen",DRUG_ABUSE
+F16.40,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium, unspecified hallucinogen",DRUG_ABUSE
+F16.41,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium, ketamine",DRUG_ABUSE
+F16.49,"Mental and behavioural disorders due to use of hallucinogens, withdrawal state with delirium, other specified hallucinogen",DRUG_ABUSE
+F16.50,"Mental and behavioural disorders due to use of hallucinogens, psychotic disorder, unspecified hallucinogen",DRUG_ABUSE
+F16.51,"Mental and behavioural disorders due to use of hallucinogens, psychotic disorder, ketamine",DRUG_ABUSE
+F16.59,"Mental and behavioural disorders due to use of hallucinogens, psychotic disorder, other specified hallucinogen",DRUG_ABUSE
+F16.60,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome, unspecified hallucinogen",DRUG_ABUSE
+F16.61,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome, ketamine",DRUG_ABUSE
+F16.69,"Mental and behavioural disorders due to use of hallucinogens, amnesic syndrome, other specified hallucinogen",DRUG_ABUSE
+F16.70,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder, unspecified hallucinogen",DRUG_ABUSE
+F16.71,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder, ketamine",DRUG_ABUSE
+F16.79,"Mental and behavioural disorders due to use of hallucinogens, residual and late-onset psychotic disorder, other specified hallucinogen",DRUG_ABUSE
+F16.80,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders, unspecified hallucinogen",DRUG_ABUSE
+F16.81,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders, ketamine",DRUG_ABUSE
+F16.89,"Mental and behavioural disorders due to use of hallucinogens, other mental and behavioural disorders, other specified hallucinogen",DRUG_ABUSE
+F16.90,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder, unspecified hallucinogen",DRUG_ABUSE
+F16.91,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder, ketamine",DRUG_ABUSE
+F16.99,"Mental and behavioural disorders due to use of hallucinogens, unspecified mental and behavioural disorder, other specified hallucinogen",DRUG_ABUSE
+K29.20,"Alcoholic gastritis, without mention of haemorrhage",ALCOHOL_ABUSE
+K29.21,"Alcoholic gastritis, with haemorrhage",ALCOHOL_ABUSE
+I48.0,Paroxysmal atrial fibrillation,CARDIAC_ARRHYTHMIAS
+I48.1,Persistent atrial fibrillation,CARDIAC_ARRHYTHMIAS
+I48.2,Chronic atrial fibrillation,CARDIAC_ARRHYTHMIAS
+I48.3,Typical atrial flutter,CARDIAC_ARRHYTHMIAS
+I48.4,Atypical atrial flutter,CARDIAC_ARRHYTHMIAS
+I48.9,"Atrial fibrillation and atrial flutter, unspecified",CARDIAC_ARRHYTHMIAS
+C69.7,Malignant neoplasm of other specified parts of eye,SOLID_TUMOR_WITHOUT_METASTASIS
+E66.10,"Drug-induced obesity, body mass index [BMI] not elsewhere classified",OBESITY
+E66.11,"Drug-induced obesity, body mass index [BMI] 30 kg/m2 to 34.99 kg/m2",OBESITY
+E66.12,"Drug-induced obesity, body mass index [BMI] 35 kg/m2 to 39.99 kg/m2",OBESITY
+E66.13,"Drug-induced obesity, body mass index [BMI] 40 kg/m2 or more",OBESITY
+E66.20,"Obesity with alveolar hypoventilation, body mass index [BMI] not elsewhere classified",OBESITY
+E66.21,"Obesity with alveolar hypoventilation, body mass index [BMI] 30 kg/m2 to 34.99 kg/m2",OBESITY
+E66.22,"Obesity with alveolar hypoventilation, body mass index [BMI] 35 kg/m2 to 39.99 kg/m2",OBESITY
+E66.23,"Obesity with alveolar hypoventilation, body mass index [BMI] 40 kg/m2 or more",OBESITY
+E66.3,Overweight,OBESITY
+E66.90,"Obesity, not elsewhere classified, body mass index [BMI] not elsewhere classified",OBESITY
+E66.91,"Obesity, not elsewhere classified, body mass index [BMI] 30 kg/m2 to 34.99 kg/m2",OBESITY
+E66.92,"Obesity, not elsewhere classified, body mass index [BMI] 35 kg/m2 to 39.99 kg/m2",OBESITY
+E66.93,"Obesity, not elsewhere classified, body mass index [BMI] 40 kg/m2 or more",OBESITY
+C76.31,Malignant neoplasm of male pelvic organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C76.32,Malignant neoplasm of female pelvic organs,SOLID_TUMOR_WITHOUT_METASTASIS
+C76.39,"Malignant neoplasm of pelvic organs, not elsewhere classified",SOLID_TUMOR_WITHOUT_METASTASIS
+C79.83,Secondary malignant neoplasm of male genital organs,METASTATIC_CANCER
+C79.84,Secondary malignant neoplasm of female genital organs,METASTATIC_CANCER
+I49.50,"Sinus node dysfunction, unspecified",CARDIAC_ARRHYTHMIAS
+I49.51,Sick sinus syndrome,CARDIAC_ARRHYTHMIAS
+J41.2,Protracted bacterial bronchitis,CHRONIC_PULMONARY_DISEASE
+T51.0,Toxic effect of ethanol,ALCOHOL_ABUSE
+T51.2,Toxic effect of 2-Propanol,ALCOHOL_ABUSE
+T51.8,Toxic effect of other alcohols,ALCOHOL_ABUSE

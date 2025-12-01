@@ -1,0 +1,14 @@
+[project]
+name = "comorbidity-coefficients-collaboration"
+version = "0.1.0"
+description = "Source code for computing comorbidity scores and predictive performance of the Charlson, MACSS, and Elixhauser comorbidity models."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "lifelines>=0.30.0",
+    "pandas>=2.3.3",
+    "pyyaml>=6.0.3",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+]

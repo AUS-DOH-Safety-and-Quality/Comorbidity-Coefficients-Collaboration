@@ -1,0 +1,97 @@
+models:
+  charlson_ihm: 
+    model_name: charlson_IHM
+    dataset_training: charlson_training.csv
+    dataset_testing: charlson_testing.csv
+    dataset_weights_train: charlson_scores_training_dataset
+    dataset_weights_test: charlson_scores_testing_dataset
+    class: DEATH
+  charlson_30_day_mort: 
+    model_name: charlson_30_day_mort
+    dataset_training: charlson_training.csv
+    dataset_testing: charlson_testing.csv
+    dataset_weights_train: charlson_scores_training_dataset
+    dataset_weights_test: charlson_scores_testing_dataset
+    class: THIRTY_DAY_MORT
+  charlson_1_year_mort: 
+    model_name: charlson_1_year_mort
+    dataset_training: charlson_training.csv
+    dataset_testing: charlson_testing.csv
+    dataset_weights_train: charlson_scores_training_dataset
+    dataset_weights_test: charlson_scores_testing_dataset
+    class: ONE_YEAR_MORT
+  charlson_5_year_mort: 
+    model_name: charlson_5_year_mort
+    dataset_training: charlson_training.csv
+    dataset_testing: charlson_testing.csv
+    dataset_weights_train: charlson_scores_training_dataset
+    dataset_weights_test: charlson_scores_testing_dataset
+    class: FIVE_YEAR_MORT
+  charlson_1_year_survival: 
+    model_name: charlson_1_year_survival
+    dataset_training: charlson_survival_data.csv
+    indicator: ONE_YEAR_MORT
+    time: SURVIVAL_TIME_DAYS
+  charlson_los:
+    model_name: charlson_los
+    dataset_training: charlson_los_training.csv
+    dataset_testing: charlson_los_testing.csv
+    class: LOG_LOS
+  elixhauser_ihm: 
+    model_name: elixhauser_IHM
+    dataset_training: elixhauser_training.csv
+    dataset_testing: elixhauser_testing.csv
+    dataset_weights_train: elixhauser_scores_training_dataset
+    dataset_weights_test: elixhauser_scores_testing_dataset
+    class: DEATH
+  elixhauser_30_day_mort: 
+    model_name: elixhauser_30_day_mort
+    dataset_training: elixhauser_training.csv
+    dataset_testing: elixhauser_testing.csv
+    dataset_weights_train: elixhauser_scores_training_dataset
+    dataset_weights_test: elixhauser_scores_testing_dataset
+    class: THIRTY_DAY_MORT
+  elixhauser_1_year_mort: 
+    model_name: elixhauser_1_year_mort
+    dataset_training: elixhauser_training.csv
+    dataset_testing: elixhauser_testing.csv
+    dataset_weights_train: elixhauser_scores_training_dataset
+    dataset_weights_test: elixhauser_scores_testing_dataset
+    class: ONE_YEAR_MORT
+  elixhauser_5_year_mort: 
+    model_name: elixhauser_5_year_mort
+    dataset_training: elixhauser_training.csv
+    dataset_testing: elixhauser_testing.csv
+    dataset_weights_train: elixhauser_scores_training_dataset
+    dataset_weights_test: elixhauser_scores_testing_dataset
+    class: FIVE_YEAR_MORT
+  elixhauser_los:
+    model_name: elixhauser_los
+    dataset_training: elixhauser_los_training.csv
+    dataset_testing: elixhauser_los_testing.csv
+    class: LOG_LOS
+  macss_ihm: 
+    model_name: macss_IHM
+    dataset_training: macss_training.csv
+    dataset_testing: macss_testing.csv
+    class: DEATH
+  macss_30_day_mort: 
+    model_name: macss_30_day_mort
+    dataset_training: macss_training.csv
+    dataset_testing: macss_testing.csv
+    class: THIRTY_DAY_MORT
+  macss_1_year_mort: 
+    model_name: macss_1_year_mort
+    dataset_training: macss_training.csv
+    dataset_testing: macss_testing.csv
+    class: ONE_YEAR_MORT
+  macss_5_year_mort: 
+    model_name: macss_5_year_mort
+    dataset_training: macss_training.csv
+    dataset_testing: macss_testing.csv
+    class: FIVE_YEAR_MORT
+  macss_los:
+    model_name: macss_los
+    dataset_training: macss_los_training.csv
+    dataset_testing: macss_los_testing.csv
+    class: LOG_LOS
